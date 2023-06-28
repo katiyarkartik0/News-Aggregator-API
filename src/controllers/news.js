@@ -1,0 +1,3 @@
+const getNews = (req,res)=>{
+    
+}
