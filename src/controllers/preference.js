@@ -1,6 +1,7 @@
 const usersData = require("../usersData.json");
 const path = require("path");
 const fs = require("fs");
+
 const getPreference = (req, res) => {
   const { userId } = req.body;
   let preferencesList;
