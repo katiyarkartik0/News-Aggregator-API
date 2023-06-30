@@ -7,7 +7,6 @@ const path = require("path");
 const { getNews } = require("./helpers/fetchExternalData");
 const newsRoutes = require("./routes/news");
 
-
 const app = express();
 app.use(cors());
 app.use(routes);

@@ -1,6 +1,6 @@
-// const uuid = require("uuid");
 const path = require("path");
 const fs = require("fs");
+require("dotenv").config({ path: path.join(__dirname, "..", "..", ".env") });
 
 function generateUniqueCode(inputString) {
   // Generate a hash code based on the input string
@@ -35,7 +35,7 @@ const getNewsByCategory = async (category) => {
     });
   } catch (err) {
     console.log(err);
-    return {}
+    return {};
   }
 
   return newsList;
