@@ -47,11 +47,15 @@ const addToRead = (req, res) => {
     }
   }
   if (!readNews) {
-    return res.status(400).send("Invalid news-ID!");
+    return res
+      .status(400)
+      .send(
+        "either news-ID is invalid or the ID provided is not of the news that is from your preference list of news categories !"
+      );
   }
   const updatedUserData = usersData.map((user) => {
     if (user.userId == userId) {
-      return { ...user, read:[...user.read,readNews] };
+      return { ...user, read: [...user.read, readNews] };
     }
     return user;
   });
@@ -63,4 +67,75 @@ const addToRead = (req, res) => {
   return res.status(200).send("News Article added to read successfully!");
 };
 
-module.exports = { getNews, addToRead };
+const addToFavorites = (req, res) => {
+  const { userId } = req.body;
+  const id = req.params.id;
+
+  const newsBasedOnPreference = getNewsBasedOnPreference(userId);
+
+  let favoriteNews;
+  let newsFound = false;
+  for (let i = 0; i < newsBasedOnPreference.length; i++) {
+    if (newsFound == true) {
+      break;
+    }
+    for (let j = 0; j < newsBasedOnPreference[i].data.length; j++) {
+      if (newsBasedOnPreference[i].data[j].uniqueId == id) {
+        favoriteNews = newsBasedOnPreference[i].data[j];
+        newsFound = true;
+        break;
+      }
+    }
+  }
+  if (!favoriteNews) {
+    return res
+      .status(400)
+      .send(
+        "either news-ID is invalid or the ID provided is not of the news that is from your preference list of news categories !"
+      );
+  }
+  const updatedUserData = usersData.map((user) => {
+    if (user.userId == userId) {
+      return { ...user, favorites: [...user.favorites, favoriteNews] };
+    }
+    return user;
+  });
+  const writePath = path.join(__dirname, "..", "usersData.json");
+  fs.writeFileSync(writePath, JSON.stringify(updatedUserData), {
+    encoding: "utf-8",
+    flag: "w",
+  });
+  return res.status(200).send("News Article added to favorites successfully!");
+};
+
+const getReadNews = (req, res) => {
+  const { userId } = req.body;
+  let readNews;
+  for (let i = 0; i < usersData.length; i++) {
+    if (usersData[i].userId == userId) {
+      readNews = usersData[i].read;
+      break;
+    }
+  }
+  return res.status(200).send(readNews);
+};
+
+const getFavoriteNews = (req, res) => {
+  const { userId } = req.body;
+  let favoriteNews;
+  for (let i = 0; i < usersData.length; i++) {
+    if (usersData[i].userId == userId) {
+      favoriteNews = usersData[i].favorites;
+      break;
+    }
+  }
+  return res.status(200).send(favoriteNews);
+};
+
+module.exports = {
+  getNews,
+  addToRead,
+  addToFavorites,
+  getReadNews,
+  getFavoriteNews,
+};

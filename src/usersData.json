@@ -3,8 +3,20 @@
     "userId": "21",
     "username": "katiyarkartik0",
     "password": "qwertypad",
-    "preferences": ["sports", "technology", "health"],
+    "preferences": ["business", "health"],
     "read": [],
-    "favorites": []
+    "favorites": [
+      {
+        "source": { "id": null, "name": "Bollywood Life" },
+        "author": "Rupal Purohit",
+        "title": "Bigg Boss OTT 2 contestants and their controversial past: Manisha Rani to Pooja Bhatt and more - Bollywood Life",
+        "description": "Bigg Boss OTT 2 itself is a controversial show and we have noted controversial pasts of few of the contestants.",
+        "url": "https://www.bollywoodlife.com/photos/bigg-boss-ott-2-contestants-and-their-controversial-past-manisha-rani-to-pooja-bhatt-and-more-celebrity-photos-2488703/",
+        "urlToImage": "https://st1.bollywoodlife.com/wp-content/uploads/2023/06/MicrosoftTeams-image-2023-06-28T152825.034-600x315-1.jpg",
+        "publishedAt": "2023-06-28T10:08:47Z",
+        "content": "In a conversation with Jad Hadid, Akansha Puri opened up about her break up with Paras Chhabra. She is not getting in a relationship with a fear of it becoming an issue on television like her previou… [+178 chars]",
+        "uniqueId": "za0ni5"
+      }
+    ]
   }
 ]

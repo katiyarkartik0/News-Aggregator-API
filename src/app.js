@@ -17,6 +17,8 @@ app.use(bodyParser.json());
 const PORT = 3001;
 
 routes.get("/", (req, res) => {
+  //an API call will be made as soon as a req is encoutered from browser,
+  //so as to cache news in the file. 
   getNews();
   res.status(200).send("Welcome to airtribe");
 });

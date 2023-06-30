@@ -1,13 +1,21 @@
 const express = require("express");
 const newsRoutes = express.Router();
 const bodyParser = require("body-parser");
-const { getNews,addToRead } = require("../controllers/news.js");
+const {
+  getNews,
+  addToRead,
+  addToFavorites,
+  getFavoriteNews,
+  getReadNews,
+} = require("../controllers/news.js");
 
 newsRoutes.use(bodyParser.urlencoded({ extended: false }));
 newsRoutes.use(bodyParser.json());
 
 newsRoutes.get("/", getNews);
-newsRoutes.post("/:id/read",addToRead);
-// preferenceRoutes.put("/", updatePreference);
+newsRoutes.post("/:id/read", addToRead);
+newsRoutes.post("/:id/favorite", addToFavorites);
+newsRoutes.get("/read", getReadNews);
+newsRoutes.get("/favorites", getFavoriteNews);
 
 module.exports = newsRoutes;

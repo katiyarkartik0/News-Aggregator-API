@@ -22,7 +22,7 @@ const getNewsByCategory = async (category) => {
   let newsList = [];
   try {
     const news = await fetch(
-      `https://newsapi.org/v2/top-headlines?country=in&category=${category}&apiKey=a86016d2a0b0497d81da6207e991340a`,
+      `https://newsapi.org/v2/top-headlines?country=in&category=${category}&apiKey=${process.env.API_KEY}`,
       {
         method: "GET",
       }
@@ -35,20 +35,27 @@ const getNewsByCategory = async (category) => {
     });
   } catch (err) {
     console.log(err);
+    return {}
   }
 
   return newsList;
 };
 
-const getNews = async (req, res) => {
-  const entertainmentNews = await getNewsByCategory("health");
+const getNews = async () => {
+  const entertainmentNews = await getNewsByCategory("entertainment");
   const businessNews = await getNewsByCategory("business");
-  const healthNews = await getNewsByCategory("entertainment");
+  const healthNews = await getNewsByCategory("health");
+  const scienceNews = await getNewsByCategory("science");
+  const sportsNews = await getNewsByCategory("sports");
+  const technologyNews = await getNewsByCategory("technology");
 
   const updatedNewsJSON = [
     { category: "health", data: healthNews },
     { category: "business", data: businessNews },
     { category: "entertainment", data: entertainmentNews },
+    { category: "science", data: scienceNews },
+    { category: "sports", data: sportsNews },
+    { category: "technology", data: technologyNews },
   ];
   const writePath = path.join(__dirname, "..", "news.json");
   fs.writeFileSync(writePath, JSON.stringify(updatedNewsJSON), {
