@@ -4,7 +4,14 @@ const fs = require("fs");
 const { Validator } = require("../helpers/validator");
 
 const getPreference = (req, res) => {
-  const { userId } = req.body;
+  if(req.verified==false && req.msg!=null){
+    return res.status(403).send(req.msg)
+  }
+  if(req.verified==false && req.msg==null){
+    return res.status(403).send("invalid JWT token")
+  }
+
+  const userId  = req.id;
   let preferencesList;
   for (let i = 0; i < usersData.length; i++) {
     if (usersData[i].userId == userId) {
@@ -12,11 +19,19 @@ const getPreference = (req, res) => {
       break;
     }
   }
-  res.status(200).send(preferencesList);
+  return res.status(200).send(preferencesList);
 };
 
 const updatePreference = (req, res) => {
-  const { userId, preferences: incomingPreferences } = req.body;
+  if(req.verified==false && req.msg!=null){
+    return res.status(403).send(req.msg)
+  }
+  if(req.verified==false && req.msg==null){
+    return res.status(403).send("invalid JWT token")
+  }
+  const userId = req.id;
+
+  const { preferences: incomingPreferences } = req.body;
   const validator = new Validator();
   const filteredPrefence =
     validator.filterOutValidPreferences(incomingPreferences);

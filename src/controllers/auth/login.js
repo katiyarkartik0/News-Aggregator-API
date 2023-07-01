@@ -4,6 +4,7 @@ const fs = require("fs");
 const path = require("path");
 const { Validator } = require("../../helpers/validator");
 const jwt = require("jsonwebtoken");
+const { fetchNews } = require("../../helpers/fetchExternalData");
 require("dotenv").config({
   path: path.join(__dirname, "..", "..", "..", ".env"),
 });
@@ -25,6 +26,9 @@ const loginUser = (req, res) => {
   const token = jwt.sign({ id: userData.userId }, process.env.API_SECRET, {
     expiresIn: 86400,
   });
+    //an API call will be made as soon as user loggs in successfully ,so as to cache news in the file asynchronously. 
+    fetchNews();
+
   return res
     .status(200)
     .send({ userData, msg: "login successful", accessToken: token });

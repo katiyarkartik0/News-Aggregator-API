@@ -23,6 +23,26 @@
     "userId": "70b522e2-f963-48b3-8076-d8b40b75adbe",
     "username": "katiyarkartik0@",
     "password": "$2b$04$KUGJBNRMyN7j3sFr1SCDXuh8ZkKLPen1TukZOhtrhd4mZ9gTf81ne",
+    "preferences": ["technology", "health"],
+    "read": [
+      {
+        "source": { "id": "the-times-of-india", "name": "The Times of India" },
+        "author": "TIMESOFINDIA.COM",
+        "title": "Dementia symptoms: This is the most commonly MISSED warning sign of dementia - Times of India",
+        "description": "The most commonly missed warning sign of dementia is trouble with spatial issues, speech, and directions. Difficulty with language and visual/spatial skills can manifest before memory loss in certain cases.",
+        "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/dementia-symptoms-this-is-the-most-commonly-missed-warning-sign-of-dementia/photostory/101339341.cms",
+        "urlToImage": "https://static.toiimg.com/photo/101339351.cms",
+        "publishedAt": "2023-06-29T05:30:00Z",
+        "content": "There are many factors that can eventually contribute to dementia. Some factors, such as age, family history and down syndrome can't be changed. Other risk factors that may be managed include diet an… [+502 chars]",
+        "uniqueId": "-fkt45g"
+      }
+    ],
+    "favorites": []
+  },
+  {
+    "userId": "c596ef4b-84a2-4f79-b30a-d562cdfb3ef6",
+    "username": "mr. learner",
+    "password": "$2b$04$zJ4smo3tT9X7pv.zZb3QCOCBOWPNuvhMrkVPUJkE4BG/lLgKD9q4e",
     "preferences": [],
     "read": [],
     "favorites": []

@@ -3,8 +3,6 @@ const bodyParser = require("body-parser");
 const cors = require("cors");
 const routes = require("express").Router();
 const preferencesRoutes = require("../src/routes/preferences");
-const path = require("path");
-const { getNews } = require("./helpers/fetchExternalData");
 const newsRoutes = require("./routes/news");
 const { registerRoutes } = require("./routes/auth/register");
 const { loginRoutes } = require("./routes/auth/login");
@@ -18,9 +16,6 @@ app.use(bodyParser.json());
 const PORT = 3001;
 
 routes.get("/", (req, res) => {
-  //an API call will be made as soon as a req is encoutered from browser,
-  //so as to cache news in the file. 
-  getNews();
   res.status(200).send("Welcome to airtribe");
 });
 

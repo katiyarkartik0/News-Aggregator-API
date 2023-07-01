@@ -41,7 +41,7 @@ const getNewsByCategory = async (category) => {
   return newsList;
 };
 
-const getNews = async () => {
+const fetchNews = async () => {
   const entertainmentNews = await getNewsByCategory("entertainment");
   const businessNews = await getNewsByCategory("business");
   const healthNews = await getNewsByCategory("health");
@@ -64,4 +64,4 @@ const getNews = async () => {
   });
 };
 
-module.exports = { getNews };
+module.exports = { fetchNews };

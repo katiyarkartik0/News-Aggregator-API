@@ -3,6 +3,7 @@ const usersData = require("../usersData.json");
 class Validator {
   constructor() {}
   filterOutValidPreferences(incomingPreferences) {
+    console.log(incomingPreferences)
     if (typeof incomingPreferences != "object") {
       return {
         error: true,
