@@ -1,5 +1,5 @@
 const preferencesConstrains = require("./constants");
-
+const usersData = require("../usersData.json");
 class Validator {
   constructor() {}
   filterOutValidPreferences(incomingPreferences) {
@@ -35,6 +35,20 @@ class Validator {
         };
       }
     }
+  }
+  getUser(username, userLoggingIn) {
+    for (let i = 0; i < usersData.length; i++) {
+      if (username == usersData[i].username) {
+        return {
+          userData:usersData[i],
+          msg: userLoggingIn ? "" : "user already exists, try signing in",
+        };
+      }
+    }
+    return {
+      userData: null,
+      msg: userLoggingIn ? "username not found, try registering first" : "",
+    };
   }
 }
 

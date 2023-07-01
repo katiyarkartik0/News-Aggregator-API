@@ -6,6 +6,8 @@ const preferencesRoutes = require("../src/routes/preferences");
 const path = require("path");
 const { getNews } = require("./helpers/fetchExternalData");
 const newsRoutes = require("./routes/news");
+const { registerRoutes } = require("./routes/auth/register");
+const { loginRoutes } = require("./routes/auth/login");
 
 const app = express();
 app.use(cors());
@@ -22,6 +24,8 @@ routes.get("/", (req, res) => {
   res.status(200).send("Welcome to airtribe");
 });
 
+routes.use("/register",registerRoutes);
+routes.use("/login",loginRoutes);
 routes.use("/preferences", preferencesRoutes);
 routes.use("/news", newsRoutes);
 
