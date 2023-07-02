@@ -3,7 +3,6 @@ const usersData = require("../usersData.json");
 class Validator {
   constructor() {}
   filterOutValidPreferences(incomingPreferences) {
-    console.log(incomingPreferences)
     if (typeof incomingPreferences != "object") {
       return {
         error: true,
@@ -37,18 +36,24 @@ class Validator {
       }
     }
   }
-  getUser(username, userLoggingIn) {
+  getUser(username, { attempt }) {
     for (let i = 0; i < usersData.length; i++) {
       if (username == usersData[i].username) {
         return {
-          userData:usersData[i],
-          msg: userLoggingIn ? "" : "user already exists, try signing in",
+          userData: usersData[i],
+          msg:
+            attempt == "logIn"
+              ? "user exists, we are good to login "
+              : "user already exists, try signing in",
         };
       }
     }
     return {
       userData: null,
-      msg: userLoggingIn ? "username not found, try registering first" : "",
+      msg:
+        attempt == "register"
+          ? "username not in the database,we are good to register"
+          : "username not found, try registering first",
     };
   }
 }

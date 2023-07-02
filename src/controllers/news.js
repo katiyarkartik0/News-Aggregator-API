@@ -1,67 +1,35 @@
-const newsData = require("../news.json") || [];
-const usersData = require("../usersData.json");
 const path = require("path");
 const fs = require("fs");
 
-const getNewsBasedOnPreference = (userId) => {
-  let preferencesList = [];
-  for (let i = 0; i < usersData.length; i++) {
-    if (usersData[i].userId == userId) {
-      preferencesList = usersData[i].preferences;
-      break;
-    }
-  }
-  const newsBasedOnPreference = newsData.filter((item) => {
-    if (preferencesList.includes(item.category)) {
-      return true;
-    }
-    return false;
-  });
-  return newsBasedOnPreference;
-};
+const {
+  findNewsArticle,
+  getReadOrFavoritesNews,
+  getNewsListBasedOnPreference,
+} = require("./helpers");
+const usersData = require("../usersData.json");
 
 const getNews = (req, res) => {
-  if (req.verified == false && req.msg != null) {
+  if (req.verified == false) {
     return res.status(403).send(req.msg);
-  }
-  if (req.verified == false && req.msg == null) {
-    return res.status(403).send("invalid JWT token");
   }
 
   const userId = req.id;
-  const newsBasedOnPreference = getNewsBasedOnPreference(userId);
-  return res.status(200).send(newsBasedOnPreference);
+  const newsListBasedOnPreference = getNewsListBasedOnPreference(userId);
+  return res.status(200).send(newsListBasedOnPreference);
 };
 
 const addToRead = (req, res) => {
-  if (req.verified == false && req.msg != null) {
+  if (req.verified == false) {
     return res.status(403).send(req.msg);
   }
-  if (req.verified == false && req.msg == null) {
-    return res.status(403).send("invalid JWT token");
-  }
 
-  const userId = req.id
+  const userId = req.id;
   const { id: newsId } = req.params;
 
+  const newsListBasedOnPreference = getNewsListBasedOnPreference(userId);
+  const newsArticle = findNewsArticle(newsId, newsListBasedOnPreference);
 
-  const newsBasedOnPreference = getNewsBasedOnPreference(userId);
-
-  let readNews;
-  let newsFound = false;
-  for (let i = 0; i < newsBasedOnPreference.length; i++) {
-    if (newsFound == true) {
-      break;
-    }
-    for (let j = 0; j < newsBasedOnPreference[i].data.length; j++) {
-      if (newsBasedOnPreference[i].data[j].uniqueId == newsId) {
-        readNews = newsBasedOnPreference[i].data[j];
-        newsFound = true;
-        break;
-      }
-    }
-  }
-  if (!readNews) {
+  if (!newsArticle) {
     return res
       .status(400)
       .send(
@@ -70,7 +38,7 @@ const addToRead = (req, res) => {
   }
   const updatedUserData = usersData.map((user) => {
     if (user.userId == userId) {
-      return { ...user, read: [...user.read, readNews] };
+      return { ...user, read: [...user.read, newsArticle] };
     }
     return user;
   });
@@ -83,32 +51,17 @@ const addToRead = (req, res) => {
 };
 
 const addToFavorites = (req, res) => {
-  if (req.verified == false && req.msg != null) {
+  if (req.verified == false) {
     return res.status(403).send(req.msg);
   }
-  if (req.verified == false && req.msg == null) {
-    return res.status(403).send("invalid JWT token");
-  }
-  const userId = req.id
+
+  const userId = req.id;
   const { id: newsId } = req.params;
 
-  const newsBasedOnPreference = getNewsBasedOnPreference(userId);
+  const newsListBasedOnPreference = getNewsListBasedOnPreference(userId);
+  const newsArticle = findNewsArticle(newsId, newsListBasedOnPreference);
 
-  let favoriteNews;
-  let newsFound = false;
-  for (let i = 0; i < newsBasedOnPreference.length; i++) {
-    if (newsFound == true) {
-      break;
-    }
-    for (let j = 0; j < newsBasedOnPreference[i].data.length; j++) {
-      if (newsBasedOnPreference[i].data[j].uniqueId == newsId) {
-        favoriteNews = newsBasedOnPreference[i].data[j];
-        newsFound = true;
-        break;
-      }
-    }
-  }
-  if (!favoriteNews) {
+  if (!newsArticle) {
     return res
       .status(400)
       .send(
@@ -117,7 +70,7 @@ const addToFavorites = (req, res) => {
   }
   const updatedUserData = usersData.map((user) => {
     if (user.userId == userId) {
-      return { ...user, favorites: [...user.favorites, favoriteNews] };
+      return { ...user, favorites: [...user.favorites, newsArticle] };
     }
     return user;
   });
@@ -130,39 +83,24 @@ const addToFavorites = (req, res) => {
 };
 
 const getReadNews = (req, res) => {
-  if (req.verified == false && req.msg != null) {
+  if (req.verified == false) {
     return res.status(403).send(req.msg);
   }
-  if (req.verified == false && req.msg == null) {
-    return res.status(403).send("invalid JWT token");
-  }
+
   const userId = req.id;
-  let readNews;
-  for (let i = 0; i < usersData.length; i++) {
-    if (usersData[i].userId == userId) {
-      readNews = usersData[i].read;
-      break;
-    }
-  }
-  return res.status(200).send(readNews);
+  const readNewsList = getReadOrFavoritesNews(userId, { key: "read" });
+  return res.status(200).send(readNewsList);
 };
 
 const getFavoriteNews = (req, res) => {
-  if (req.verified == false && req.msg != null) {
+  if (req.verified == false) {
     return res.status(403).send(req.msg);
   }
-  if (req.verified == false && req.msg == null) {
-    return res.status(403).send("invalid JWT token");
-  }
   const userId = req.id;
-  let favoriteNews;
-  for (let i = 0; i < usersData.length; i++) {
-    if (usersData[i].userId == userId) {
-      favoriteNews = usersData[i].favorites;
-      break;
-    }
-  }
-  return res.status(200).send(favoriteNews);
+  const favoritesNewsList = getReadOrFavoritesNews(userId, {
+    key: "favorites",
+  });
+  return res.status(200).send(favoritesNewsList);
 };
 
 module.exports = {

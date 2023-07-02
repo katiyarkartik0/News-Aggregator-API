@@ -2,13 +2,16 @@ const uuid = require("uuid");
 const bcrypt = require("bcrypt");
 const fs = require("fs");
 const path = require("path");
+
 const { Validator } = require("../../helpers/validator");
 const usersData = require("../../usersData.json");
 
 const registerUser = (req, res) => {
   const { username, password } = req.body;
   const validator = new Validator();
-  const { userData, msg } = validator.getUser(username, false);
+  const { userData, msg } = validator.getUser(username, {
+    attempt: "register",
+  });
   if (userData) {
     return res.status(400).send(msg);
   }

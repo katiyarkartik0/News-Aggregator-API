@@ -1,34 +1,25 @@
-const usersData = require("../usersData.json");
 const path = require("path");
 const fs = require("fs");
+
 const { Validator } = require("../helpers/validator");
+const { getPreferencesListOfUser } = require("./helpers");
+const usersData = require("../usersData.json");
 
 const getPreference = (req, res) => {
-  if(req.verified==false && req.msg!=null){
-    return res.status(403).send(req.msg)
-  }
-  if(req.verified==false && req.msg==null){
-    return res.status(403).send("invalid JWT token")
+  if (req.verified == false) {
+    return res.status(403).send(req.msg);
   }
 
-  const userId  = req.id;
-  let preferencesList;
-  for (let i = 0; i < usersData.length; i++) {
-    if (usersData[i].userId == userId) {
-      preferencesList = usersData[i].preferences;
-      break;
-    }
-  }
+  const userId = req.id;
+  const preferencesList = getPreferencesListOfUser(userId);
   return res.status(200).send(preferencesList);
 };
 
 const updatePreference = (req, res) => {
-  if(req.verified==false && req.msg!=null){
-    return res.status(403).send(req.msg)
+  if (req.verified == false) {
+    return res.status(403).send(req.msg);
   }
-  if(req.verified==false && req.msg==null){
-    return res.status(403).send("invalid JWT token")
-  }
+
   const userId = req.id;
 
   const { preferences: incomingPreferences } = req.body;

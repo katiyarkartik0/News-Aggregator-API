@@ -10,6 +10,7 @@ const verifyToken = (req, res, next) => {
     jwt.verify(token.split(" ")[1], process.env.API_SECRET, (error, decode) => {
       if (error) {
         req.verified = false;
+        req.msg = "invalid JWT token";
         next();
       }
       req.id = decode.id;
