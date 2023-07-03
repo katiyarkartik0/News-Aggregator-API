@@ -1,6 +1,8 @@
 const path = require("path");
 const fs = require("fs");
+const { getUserByUserId } = require("./helpersFunctions");
 require("dotenv").config({ path: path.join(__dirname, "..", "..", ".env") });
+const usersData = require("../usersData.json");
 
 function generateUniqueCode(inputString) {
   // Generate a hash code based on the input string
@@ -41,7 +43,11 @@ const getNewsByCategory = async (category) => {
   return newsList;
 };
 
-const fetchNews = async () => {
+const fetchNews = async (userId) => {
+  const { user, error, msg } = getUserByUserId(userId);
+  if (error) {
+    throw new Error(msg);
+  }
   const entertainmentNews = await getNewsByCategory("entertainment");
   const businessNews = await getNewsByCategory("business");
   const healthNews = await getNewsByCategory("health");
@@ -57,8 +63,25 @@ const fetchNews = async () => {
     { category: "sports", data: sportsNews },
     { category: "technology", data: technologyNews },
   ];
-  const writePath = path.join(__dirname, "..", "news.json");
-  fs.writeFileSync(writePath, JSON.stringify(updatedNewsJSON), {
+  const writePathNews = path.join(__dirname, "..", "news.json");
+  fs.writeFileSync(writePathNews, JSON.stringify(updatedNewsJSON), {
+    encoding: "utf-8",
+    flag: "w",
+  });
+
+  user.newsArticlesCacheDate = new Date();
+  console.log(userId);
+
+  console.log(user);
+  const updatedUserData = usersData.map((currUser) => {
+    if (currUser.userId == userId) {
+      return user;
+    }
+    return currUser;
+  });
+  console.log(usersData);
+  const writePathUsers = path.join(__dirname, "..", "usersData.json");
+  fs.writeFileSync(writePathUsers, JSON.stringify(updatedUserData), {
     encoding: "utf-8",
     flag: "w",
   });

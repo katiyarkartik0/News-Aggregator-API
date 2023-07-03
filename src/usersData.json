@@ -1,82 +1,11 @@
 [
   {
-    "userId": "21",
-    "username": "katiyarkartik0",
-    "password": "qwertypad",
-    "preferences": ["business", "health"],
-    "read": [],
-    "favorites": [
-      {
-        "source": { "id": null, "name": "Bollywood Life" },
-        "author": "Rupal Purohit",
-        "title": "Bigg Boss OTT 2 contestants and their controversial past: Manisha Rani to Pooja Bhatt and more - Bollywood Life",
-        "description": "Bigg Boss OTT 2 itself is a controversial show and we have noted controversial pasts of few of the contestants.",
-        "url": "https://www.bollywoodlife.com/photos/bigg-boss-ott-2-contestants-and-their-controversial-past-manisha-rani-to-pooja-bhatt-and-more-celebrity-photos-2488703/",
-        "urlToImage": "https://st1.bollywoodlife.com/wp-content/uploads/2023/06/MicrosoftTeams-image-2023-06-28T152825.034-600x315-1.jpg",
-        "publishedAt": "2023-06-28T10:08:47Z",
-        "content": "In a conversation with Jad Hadid, Akansha Puri opened up about her break up with Paras Chhabra. She is not getting in a relationship with a fear of it becoming an issue on television like her previou… [+178 chars]",
-        "uniqueId": "za0ni5"
-      }
-    ]
-  },
-  {
-    "userId": "70b522e2-f963-48b3-8076-d8b40b75adbe",
-    "username": "katiyarkartik0@",
-    "password": "$2b$04$KUGJBNRMyN7j3sFr1SCDXuh8ZkKLPen1TukZOhtrhd4mZ9gTf81ne",
-    "preferences": ["technology", "health"],
-    "read": [
-      {
-        "source": { "id": "the-times-of-india", "name": "The Times of India" },
-        "author": "TIMESOFINDIA.COM",
-        "title": "Dementia symptoms: This is the most commonly MISSED warning sign of dementia - Times of India",
-        "description": "The most commonly missed warning sign of dementia is trouble with spatial issues, speech, and directions. Difficulty with language and visual/spatial skills can manifest before memory loss in certain cases.",
-        "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/dementia-symptoms-this-is-the-most-commonly-missed-warning-sign-of-dementia/photostory/101339341.cms",
-        "urlToImage": "https://static.toiimg.com/photo/101339351.cms",
-        "publishedAt": "2023-06-29T05:30:00Z",
-        "content": "There are many factors that can eventually contribute to dementia. Some factors, such as age, family history and down syndrome can't be changed. Other risk factors that may be managed include diet an… [+502 chars]",
-        "uniqueId": "-fkt45g"
-      }
-    ],
-    "favorites": []
-  },
-  {
-    "userId": "c596ef4b-84a2-4f79-b30a-d562cdfb3ef6",
-    "username": "mr. learner",
-    "password": "$2b$04$zJ4smo3tT9X7pv.zZb3QCOCBOWPNuvhMrkVPUJkE4BG/lLgKD9q4e",
+    "userId": "710be743-d5f2-4bc0-95bb-7451687ac560",
+    "username": "new entry",
+    "password": "$2b$04$vh1jqNGd.N.en26LQ0a86uloBTtP6n6f2cl19QHZoU8cy5bDEnM5a",
     "preferences": [],
     "read": [],
-    "favorites": []
-  },
-  {
-    "userId": "7fd4a59e-cdb4-44c2-b7cf-57aeeb76a20f",
-    "username": "instructor",
-    "password": "$2b$04$YxYowMQMoiIrkNWliI73DuZ82gQQmAQQLV.F2KaOAX4O7/2f8hLNe",
-    "preferences": ["business"],
-    "read": [
-      {
-        "source": { "id": null, "name": "Livemint" },
-        "author": "Sharmila Bhadoria",
-        "title": "Explained: SGX Nifty to become GIFT Nifty from tomorrow; what does it mean for India? | Mint - Mint",
-        "description": "In a major shift to Indian stock market, NIFTY's international operations, all orders of SGX Nifty will be transferred to GIFT NIFTY from July 3. Know what the transformation of SGX Nifty into GIFT Nifty means for India",
-        "url": "https://www.livemint.com/market/stock-market-news/explained-sgx-nifty-to-become-gift-nifty-from-tomorrow-what-does-it-mean-india-gift-city-gandhinagar-gujarat-nse-ix-11688272033035.html",
-        "urlToImage": "https://www.livemint.com/lm-img/img/2023/07/02/600x338/sgx_gift_nifty_1688274075833_1688274076133.JPG",
-        "publishedAt": "2023-07-02T05:36:05Z",
-        "content": "In a path-breaking move in the field of global trading in India, the popular SGX Nifty will be re-branded as GIFT NIFTY from July 3 and all the derivative contracts worth $7.5 billion, earlier traded… [+3522 chars]",
-        "uniqueId": "n6lxa3"
-      }
-    ],
-    "favorites": [
-      {
-        "source": { "id": "the-times-of-india", "name": "The Times of India" },
-        "author": "Navdeep Singh",
-        "title": "Senco Gold and 5 other IPOs set to hit the Street this week. Check details - Economic Times",
-        "description": "The second half of the year is expected to see a number of companies launching their initial public offerings (IPOs). Senco Gold, PKH Ventures, Global Pet Industries, Tridhya Tech, and Synoptics Technologies have already opened for subscription. Senco Gold's …",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/senco-gold-and-5-other-ipos-set-to-hit-the-street-this-week-check-details/articleshow/101429408.cms",
-        "urlToImage": "https://img.etimg.com/thumb/msid-101429678,width-1070,height-580,imgsize-34074,overlay-etmarkets/photo.jpg",
-        "publishedAt": "2023-07-02T06:03:00Z",
-        "content": "As we enter the second half of the year, the primary market is expected to see continued inflows as a slew of companies are launching their public offers. PKH Ventures, Global Pet Industries, Tridhya… [+4039 chars]",
-        "uniqueId": "j3cq1"
-      }
-    ]
+    "favorites": [],
+    "newsArticlesCacheDate": "2023-07-03T18:31:52.366Z"
   }
 ]

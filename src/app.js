@@ -7,6 +7,7 @@ const newsRoutes = require("./routes/news");
 const { registerRoutes } = require("./routes/auth/register");
 const { loginRoutes } = require("./routes/auth/login");
 const { verifyToken } = require("./middleware/verifyToken");
+const { updateNewsJSON } = require("./middleware/updateNewsArticles");
 
 const app = express();
 app.use(cors());
@@ -22,8 +23,8 @@ routes.get("/", (req, res) => {
 
 routes.use("/register", registerRoutes);
 routes.use("/login", loginRoutes);
-routes.use("/preferences", verifyToken, preferencesRoutes);
-routes.use("/news", verifyToken, newsRoutes);
+routes.use("/preferences", [verifyToken, updateNewsJSON], preferencesRoutes);
+routes.use("/news", [verifyToken, updateNewsJSON], newsRoutes);
 
 app.listen(PORT, (err) => {
   if (!err) {

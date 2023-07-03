@@ -6,7 +6,7 @@ const path = require("path");
 const { Validator } = require("../../helpers/validator");
 const usersData = require("../../usersData.json");
 
-const  registerUser = (req, res) => {
+const registerUser = (req, res) => {
   const { username, password } = req.body;
   const validator = new Validator();
   const { userData, msg } = validator.getUser(username, {
@@ -23,6 +23,7 @@ const  registerUser = (req, res) => {
     preferences: [],
     read: [],
     favorites: [],
+    newsArticlesCacheDate: new Date(),
   };
   const writePath = path.join(__dirname, "..", "..", "usersData.json");
   fs.writeFileSync(writePath, JSON.stringify([...usersData, user]), {

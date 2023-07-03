@@ -29,11 +29,15 @@ const logInUser = (req, res) => {
     expiresIn: 86400,
   });
   //an API call will be made as soon as user loggs in successfully ,so as to cache news in the file asynchronously.
-  fetchNews();
-
-  return res
-    .status(200)
-    .send({ userData, msg: "login successful", accessToken: token });
+  fetchNews(userData.userId)
+    .then(() => {
+      return res
+        .status(200)
+        .send({ userData, msg: "login successful", accessToken: token });
+    })
+    .catch((err) => {
+      return res.status(500).send(err);
+    });
 };
 
 module.exports = { logInUser };

@@ -2,7 +2,7 @@ const path = require("path");
 const fs = require("fs");
 
 const { Validator } = require("../helpers/validator");
-const { getPreferencesListOfUser } = require("./helpers");
+const { getPreferencesListOfUser } = require("../helpers/helpersFunctions");
 const usersData = require("../usersData.json");
 
 const getPreference = (req, res) => {
@@ -11,7 +11,10 @@ const getPreference = (req, res) => {
   }
 
   const userId = req.id;
-  const preferencesList = getPreferencesListOfUser(userId);
+  const { preferencesList, error, msg } = getPreferencesListOfUser(userId);
+  if (error) {
+    return res.status(500).send(msg);
+  }
   return res.status(200).send(preferencesList);
 };
 
@@ -21,7 +24,7 @@ const updatePreference = (req, res) => {
   }
 
   const userId = req.id;
-  console.log(userId)
+  console.log(userId);
 
   const { preferences: incomingPreferences } = req.body;
   const validator = new Validator();

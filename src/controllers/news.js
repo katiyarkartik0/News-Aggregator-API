@@ -5,7 +5,7 @@ const {
   findNewsArticle,
   getReadOrFavoritesNews,
   getNewsListBasedOnPreference,
-} = require("./helpers");
+} = require("../helpers/helpersFunctions");
 const usersData = require("../usersData.json");
 const { Validator } = require("../helpers/validator");
 
@@ -15,7 +15,11 @@ const getNews = (req, res) => {
   }
 
   const userId = req.id;
-  const newsListBasedOnPreference = getNewsListBasedOnPreference(userId);
+  const { newsListBasedOnPreference, error, msg } =
+    getNewsListBasedOnPreference(userId);
+  if (error) {
+    return res.status(500).send(msg);
+  }
   return res.status(200).send(newsListBasedOnPreference);
 };
 
@@ -27,10 +31,17 @@ const addToRead = (req, res) => {
   const userId = req.id;
   const { id: newsId } = req.params;
 
-  const newsListBasedOnPreference = getNewsListBasedOnPreference(userId);
-  const newsArticle = findNewsArticle(newsId, newsListBasedOnPreference);
+  const { newsListBasedOnPreference, error, msg } =
+    getNewsListBasedOnPreference(userId);
+  if (error) {
+    res.status(500).send(msg);
+  }
+  const { newsArticle, newsFound } = findNewsArticle(
+    newsId,
+    newsListBasedOnPreference
+  );
 
-  if (!newsArticle) {
+  if (!newsFound) {
     return res
       .status(400)
       .send(
@@ -65,10 +76,17 @@ const addToFavorites = (req, res) => {
   const userId = req.id;
   const { id: newsId } = req.params;
 
-  const newsListBasedOnPreference = getNewsListBasedOnPreference(userId);
-  const newsArticle = findNewsArticle(newsId, newsListBasedOnPreference);
+  const { newsListBasedOnPreference, error, msg } =
+    getNewsListBasedOnPreference(userId);
+  if (error) {
+    res.status(500).send(msg);
+  }
+  const { newsArticle, newsFound } = findNewsArticle(
+    newsId,
+    newsListBasedOnPreference
+  );
 
-  if (!newsArticle) {
+  if (!newsFound) {
     return res
       .status(400)
       .send(
@@ -102,7 +120,15 @@ const getReadNews = (req, res) => {
   }
 
   const userId = req.id;
-  const readNewsList = getReadOrFavoritesNews(userId, { key: "read" });
+  const {
+    newsList: readNewsList,
+    error,
+    msg,
+    statusCode,
+  } = getReadOrFavoritesNews(userId, { key: "read" });
+  if (error) {
+    return res.status(statusCode).send(msg);
+  }
   return res.status(200).send(readNewsList);
 };
 
@@ -111,9 +137,17 @@ const getFavoriteNews = (req, res) => {
     return res.status(403).send(req.msg);
   }
   const userId = req.id;
-  const favoritesNewsList = getReadOrFavoritesNews(userId, {
+  const {
+    newsList: favoritesNewsList,
+    error,
+    msg,
+    statusCode,
+  } = getReadOrFavoritesNews(userId, {
     key: "favorites",
   });
+  if (error) {
+    return res.status(statusCode).send(msg);
+  }
   return res.status(200).send(favoritesNewsList);
 };
 
