@@ -14,6 +14,7 @@ const verifyToken = (req, res, next) => {
         next();
       }
       req.id = decode.id;
+      console.log(decode.id,"kkkkkkkkkkkk");
       req.verified = true;
       next();
     });

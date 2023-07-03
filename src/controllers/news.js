@@ -7,6 +7,7 @@ const {
   getNewsListBasedOnPreference,
 } = require("./helpers");
 const usersData = require("../usersData.json");
+const { Validator } = require("../helpers/validator");
 
 const getNews = (req, res) => {
   if (req.verified == false) {
@@ -38,6 +39,12 @@ const addToRead = (req, res) => {
   }
   const updatedUserData = usersData.map((user) => {
     if (user.userId == userId) {
+      const validator = new Validator();
+      if (
+        validator.isNewsArticleUniqueInList(newsArticle, user.read) == false
+      ) {
+        return user;
+      }
       return { ...user, read: [...user.read, newsArticle] };
     }
     return user;
@@ -70,6 +77,13 @@ const addToFavorites = (req, res) => {
   }
   const updatedUserData = usersData.map((user) => {
     if (user.userId == userId) {
+      const validator = new Validator();
+      if (
+        validator.isNewsArticleUniqueInList(newsArticle, user.favorites) ==
+        false
+      ) {
+        return user;
+      }
       return { ...user, favorites: [...user.favorites, newsArticle] };
     }
     return user;

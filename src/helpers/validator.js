@@ -3,7 +3,9 @@ const usersData = require("../usersData.json");
 class Validator {
   constructor() {}
   filterOutValidPreferences(incomingPreferences) {
-    if (typeof incomingPreferences != "object") {
+    if (
+      Object.prototype.toString.call(incomingPreferences) != "[object Array]"
+    ) {
       return {
         error: true,
         msg: `please provide at least one valid preference chosing from ${preferencesConstrains} packed in an array of strings`,
@@ -55,6 +57,14 @@ class Validator {
           ? "username not in the database,we are good to register"
           : "username not found, try registering first",
     };
+  }
+  isNewsArticleUniqueInList(article, list) {
+    for (let i = 0; i < list.length; i++) {
+      if (list[i].uniqueId == article.uniqueId) {
+        return false;
+      }
+    }
+    return true;
   }
 }
 

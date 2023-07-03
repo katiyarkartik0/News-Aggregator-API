@@ -46,5 +46,37 @@
     "preferences": [],
     "read": [],
     "favorites": []
+  },
+  {
+    "userId": "7fd4a59e-cdb4-44c2-b7cf-57aeeb76a20f",
+    "username": "instructor",
+    "password": "$2b$04$YxYowMQMoiIrkNWliI73DuZ82gQQmAQQLV.F2KaOAX4O7/2f8hLNe",
+    "preferences": ["business"],
+    "read": [
+      {
+        "source": { "id": null, "name": "Livemint" },
+        "author": "Sharmila Bhadoria",
+        "title": "Explained: SGX Nifty to become GIFT Nifty from tomorrow; what does it mean for India? | Mint - Mint",
+        "description": "In a major shift to Indian stock market, NIFTY's international operations, all orders of SGX Nifty will be transferred to GIFT NIFTY from July 3. Know what the transformation of SGX Nifty into GIFT Nifty means for India",
+        "url": "https://www.livemint.com/market/stock-market-news/explained-sgx-nifty-to-become-gift-nifty-from-tomorrow-what-does-it-mean-india-gift-city-gandhinagar-gujarat-nse-ix-11688272033035.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2023/07/02/600x338/sgx_gift_nifty_1688274075833_1688274076133.JPG",
+        "publishedAt": "2023-07-02T05:36:05Z",
+        "content": "In a path-breaking move in the field of global trading in India, the popular SGX Nifty will be re-branded as GIFT NIFTY from July 3 and all the derivative contracts worth $7.5 billion, earlier traded… [+3522 chars]",
+        "uniqueId": "n6lxa3"
+      }
+    ],
+    "favorites": [
+      {
+        "source": { "id": "the-times-of-india", "name": "The Times of India" },
+        "author": "Navdeep Singh",
+        "title": "Senco Gold and 5 other IPOs set to hit the Street this week. Check details - Economic Times",
+        "description": "The second half of the year is expected to see a number of companies launching their initial public offerings (IPOs). Senco Gold, PKH Ventures, Global Pet Industries, Tridhya Tech, and Synoptics Technologies have already opened for subscription. Senco Gold's …",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/senco-gold-and-5-other-ipos-set-to-hit-the-street-this-week-check-details/articleshow/101429408.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-101429678,width-1070,height-580,imgsize-34074,overlay-etmarkets/photo.jpg",
+        "publishedAt": "2023-07-02T06:03:00Z",
+        "content": "As we enter the second half of the year, the primary market is expected to see continued inflows as a slew of companies are launching their public offers. PKH Ventures, Global Pet Industries, Tridhya… [+4039 chars]",
+        "uniqueId": "j3cq1"
+      }
+    ]
   }
 ]
