@@ -95,3 +95,6 @@ Retrieves all read news articles of the user.
 
 ### GET /news/favorites
 Retrieves all favorite news articles of the user.
+
+### GET /news/search/:keyword
+Retrieves the news articles based on ```keyword```
