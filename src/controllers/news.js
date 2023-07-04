@@ -17,6 +17,8 @@ const getNews = (req, res) => {
   const userId = req.id;
   const { newsListBasedOnPreference, error, msg } =
     getNewsListBasedOnPreference(userId);
+  
+  console.log(newsListBasedOnPreference)
   if (error) {
     return res.status(500).send(msg);
   }

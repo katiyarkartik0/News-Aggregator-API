@@ -13,7 +13,8 @@ const updateNewsJSON = (req, res, next) => {
   const instant = new Date();
   const differenceInMsec = instant.getTime() - newsArticlesCacheDate.getTime();
   const mm = Math.floor(differenceInMsec / 1000 / 60);
-  if (mm > 1) {
+  console.log(mm)
+  if (mm > 5) {
     fetchNews(userId).then(() => {
       next();
     });

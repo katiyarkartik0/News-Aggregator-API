@@ -36,14 +36,15 @@ const getNewsListBasedOnPreference = (userId) => {
   if (error) {
     return { newsBasedOnPreference: null, error, msg };
   }
-  const newsBasedOnPreference = newsData.filter((item) => {
+  const newsListBasedOnPreference = newsData.filter((item) => {
     if (preferencesList.includes(item.category)) {
       return true;
     }
     return false;
   });
+  // console.log(newsListBasedOnPreference,"helperFunction.js")
   return {
-    newsBasedOnPreference,
+    newsListBasedOnPreference,
     error: false,
     msg: "news list based on preferences has been curated",
   };
