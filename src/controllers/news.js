@@ -1,5 +1,6 @@
 const path = require("path");
 const fs = require("fs");
+const newsData = require("../news.json") || [];
 
 const {
   findNewsArticle,
@@ -18,7 +19,6 @@ const getNews = (req, res) => {
   const { newsListBasedOnPreference, error, msg } =
     getNewsListBasedOnPreference(userId);
   
-  console.log(newsListBasedOnPreference)
   if (error) {
     return res.status(500).send(msg);
   }
@@ -153,10 +153,29 @@ const getFavoriteNews = (req, res) => {
   return res.status(200).send(favoritesNewsList);
 };
 
+const getNewsByKeyword = (req,res)=>{
+  const {keyword} = req.params;
+  if (req.verified == false) {
+    return res.status(403).send(req.msg);
+  }
+
+  let newsArticles=[];
+  for(let i = 0; i<newsData.length;i++){
+    const individualCategoryNewsCollection = newsData[i].data;
+    for(let j = 0; j<individualCategoryNewsCollection.length;j++){
+      if(individualCategoryNewsCollection[j].content && individualCategoryNewsCollection[j].content.includes(keyword)==true){
+        newsArticles = [...newsArticles,individualCategoryNewsCollection[j]]
+      }
+    }
+  }
+  return res.status(200).send(newsArticles);
+}
+
 module.exports = {
   getNews,
   addToRead,
   addToFavorites,
   getReadNews,
   getFavoriteNews,
+  getNewsByKeyword
 };

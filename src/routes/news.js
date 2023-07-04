@@ -7,6 +7,7 @@ const {
   addToFavorites,
   getFavoriteNews,
   getReadNews,
+  getNewsByKeyword,
 } = require("../controllers/news.js");
 
 newsRoutes.use(bodyParser.urlencoded({ extended: false }));
@@ -17,5 +18,6 @@ newsRoutes.post("/:id/read", addToRead);
 newsRoutes.post("/:id/favorite", addToFavorites);
 newsRoutes.get("/read", getReadNews);
 newsRoutes.get("/favorites", getFavoriteNews);
+newsRoutes.get("/search/:keyword",getNewsByKeyword)
 
 module.exports = newsRoutes;

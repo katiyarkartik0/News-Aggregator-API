@@ -3,6 +3,127 @@
     "category": "health",
     "data": [
       {
+        "source": { "id": null, "name": "Dtnext.in" },
+        "author": "ANI",
+        "title": "Study shows engineered method for removing protein clumps from cells - DTNEXT",
+        "description": "Many neurodegenerative diseases like Alzheimer's, Parkinson's or Huntington's disease are associated with the aggregation of misfolded proteins but whether or not these aggregates contribute to...",
+        "url": "https://www.dtnext.in/lifestyle/wellbeing/study-shows-engineered-method-for-removing-protein-clumps-from-cells-721918",
+        "urlToImage": "https://dtnext-prod.s3.ap-south-1.amazonaws.com/h-upload/2023/07/03/745669-ani-20230703060918.jpg",
+        "publishedAt": "2023-07-03T08:32:02Z",
+        "content": "WASHINGTON; Protein cells , cellular proteins, alzheimer's disease, human biology Protein aggregates build up with age and have been linked to neurological illnesses such as Alzheimer's, Parkinson's,… [+2239 chars]",
+        "uniqueId": "vw4ms6"
+      },
+      {
+        "source": { "id": null, "name": "Slurrp.com" },
+        "author": "Shireen Jamooji",
+        "title": "6 High Protein Shakes To Help Shed The Extra Pounds - Slurrp",
+        "description": "Protein shakes are an effective tool for weight loss, providing a convenient and nutritious way to reduce calorie intake while supporting muscle growth and fat loss.",
+        "url": "https://www.slurrp.com/article/6-high-protein-shakes-to-help-shed-the-extra-pounds-1688372625166",
+        "urlToImage": "https://images.slurrp.com/prodarticles/hpoi95cmd.webp",
+        "publishedAt": "2023-07-03T08:26:45Z",
+        "content": "Also Read: 5 Homemade Protein Shakes For Healthy Weight Loss\r\nHere are six high-protein shakes that can aid in shedding those extra pounds:\r\nThis shake combines Greek yoghourt, mixed berries, almond … [+522 chars]",
+        "uniqueId": "-3uc9zj"
+      },
+      {
+        "source": { "id": null, "name": "Daijiworld.com" },
+        "author": null,
+        "title": "Covid pandemic spiked Type 1 diabetes in children, adolescents: Study - Daijiworld.com",
+        "description": "Toronto, Jul 3 (IANS): The incidence of Type 1 diabetes among children and adolescents rose significantly as a result of Covid-19 pandemic, according to a large study.\r\nThe study, published in the JAMA Network Open, was conducted as a systematic review and me…",
+        "url": "https://www.daijiworld.com/news/newsDisplay?newsID=1095921",
+        "urlToImage": "http://daijiworld.com/images/daijiSquareLogo.png",
+        "publishedAt": "2023-07-03T08:26:07Z",
+        "content": "Toronto, Jul 3 (IANS): The incidence of Type 1 diabetes among children and adolescents rose significantly as a result of Covid-19 pandemic, according to a large study.\r\nThe study, published in the JA… [+2277 chars]",
+        "uniqueId": "pu9kcn"
+      },
+      {
+        "source": { "id": null, "name": "Uniquetimes.org" },
+        "author": null,
+        "title": "Discover the Top Benefits of Using Mango Seeds for Hair, Skin, and Body - Unique Times Magazine",
+        "description": "Mangoes are not only delicious tropical fruits but also have incredible health benefits. While the flesh of the mango is widely enjoyed, did you know that",
+        "url": "https://uniquetimes.org/discover-the-top-benefits-of-using-mango-seeds-for-hair-skin-and-body/",
+        "urlToImage": "https://uniquetimes.org/wp-content/uploads/2023/07/mango-seed-4.jpg",
+        "publishedAt": "2023-07-03T08:18:09Z",
+        "content": "Mangoes are not only delicious tropical fruits but also have incredible health benefits. While the flesh of the mango is widely enjoyed, did you know that the seeds can be just as beneficial? Mango s… [+3406 chars]",
+        "uniqueId": "-f242cf"
+      },
+      {
+        "source": { "id": null, "name": "Punjabnewsexpress.com" },
+        "author": null,
+        "title": "Train nurses to avoid injuries during treatment : Study - Punjab News Express",
+        "description": "<p><strong>LUCKNOW</strong>: Nearly one-third nurses at King George's Medical University (KGMU) had suffered sharp injuries in the last one year, a year-long study by the community medicine department which was published in the International Journal of Advanc…",
+        "url": "https://www.punjabnewsexpress.com/health/news/train-nurses-to-avoid-injuries-during-treatment-study-214658",
+        "urlToImage": "https://www.punjabnewsexpress.com/images/article/article214658.jpg",
+        "publishedAt": "2023-07-03T08:00:07Z",
+        "content": "LUCKNOW: Nearly one-third nurses at King George's Medical University (KGMU) had suffered sharp injuries in the last one year, a year-long study by the community medicine department which was publishe… [+1673 chars]",
+        "uniqueId": "9bo37b"
+      },
+      {
+        "source": { "id": null, "name": "The Siasat Daily" },
+        "author": "Indo-Asian News Service",
+        "title": "Covid vax cut disease disparities between low and high-income groups - The Siasat Daily",
+        "description": "New York: Covid-19 vaccination helped reduce disparities in disease incidence between low and high-income communities, according to a new analysis. While lower-income communities had lower vaccination rates than higher-income communities, the impact of vaccin…",
+        "url": "https://www.siasat.com/covid-vax-cut-disease-disparities-between-low-and-high-income-groups-2630503/",
+        "urlToImage": "https://cdn.siasat.com/wp-content/uploads/2022/01/vaccinationJan1.jpg",
+        "publishedAt": "2023-07-03T07:27:46Z",
+        "content": "New York: Covid-19 vaccination helped reduce disparities in disease incidence between low and high-income communities, according to a new analysis.\r\nWhile lower-income communities had lower vaccinati… [+1852 chars]",
+        "uniqueId": "-miccha"
+      },
+      {
+        "source": { "id": null, "name": "Financial Express" },
+        "author": "The Financial Express",
+        "title": "Vitamin D supplements can reduce the risk of heart attacks; read on to know more - The Financial Express",
+        "description": null,
+        "url": "https://www.financialexpress.com/healthcare/wellness/vitamin-d-supplements-can-reduce-the-risk-of-heart-attacks-read-on-to-know-more/3153062/",
+        "urlToImage": null,
+        "publishedAt": "2023-07-03T07:05:24Z",
+        "content": null,
+        "uniqueId": "bhjeyw"
+      },
+      {
+        "source": { "id": null, "name": "News.cn" },
+        "author": "",
+        "title": "Laos sees increase in dengue cases in H1 - Xinhua",
+        "description": "",
+        "url": "https://english.news.cn/20230703/cd58bcd73c194b9ea6372522d9b95fd0/c.html",
+        "urlToImage": null,
+        "publishedAt": "2023-07-03T06:37:45Z",
+        "content": "VIENTIANE, July 3 (Xinhua) -- Laos saw an increase in dengue fever cases in the first six months of this year, compared to the corresponding period of 2022.\r\n From January to June 2023, Laos recorded… [+962 chars]",
+        "uniqueId": "-zb0wpp"
+      },
+      {
+        "source": { "id": null, "name": "The Sentinel Assam" },
+        "author": "Sentinel Digital Desk",
+        "title": "After diabetes and BP, obesity surge set off alarm bells across India - Sentinelassam - The Sentinel Assam",
+        "description": "While India continues to battle the steep rise in two major lifestyle diseases – type 2 diabetes and hypertension – the growing cases of obesity has raised an alarm in the country.",
+        "url": "https://www.sentinelassam.com/health/after-diabetes-and-bp-obesity-surge-set-off-alarm-bells-across-india-656517",
+        "urlToImage": "https://assets.sentinelassam.com/h-upload/2023/07/03/466244-diabetes-obesity-india.avif",
+        "publishedAt": "2023-07-03T06:00:23Z",
+        "content": "NEW DELHI: While India continues to battle the steep rise in two major lifestyle diseases type 2 diabetes and hypertension the growing cases of obesity has raised an alarm in the country. \r\nThe obesi… [+3522 chars]",
+        "uniqueId": "zgfils"
+      },
+      {
+        "source": { "id": null, "name": "Dovepress.com" },
+        "author": "Dove Press",
+        "title": "Advances in Immunomodulatory Mechanisms of Mesenchymal Stem Cells-Deri | IJN - Dove Medical Press",
+        "description": "Advances in Immunomodulatory Mechanisms of Mesenchymal Stem Cells-Derived Exosome on Immune Cells in Scar Formation",
+        "url": "https://www.dovepress.com/advances-in-immunomodulatory-mechanisms-of-mesenchymal-stem-cells-deri-peer-reviewed-fulltext-article-IJN",
+        "urlToImage": "https://www.dovepress.com/assets/img/addon/og_logo.png",
+        "publishedAt": "2023-07-03T05:12:25Z",
+        "content": "Background\r\nPathological scars, including hypertrophic scar (HS) and keloids, are abnormal scars at the trauma or surgical sites of the skin and are characterized by the over-proliferation of fibrobl… [+90436 chars]",
+        "uniqueId": "3h6up1"
+      },
+      {
+        "source": { "id": null, "name": "Newstracklive.com" },
+        "author": "Sanskar Tiwari",
+        "title": "Food and Cooking: Exploring the World of Plant-Based Protein Alternatives - News Track English",
+        "description": "Introduction\r\nIn recent years, there has been a growing interest in plant-based diets and alternatives to traditional animal-based protein sources. Whether due to health concerns, ethical considerations, or environmental awareness, more people are exploring t…",
+        "url": "https://english.newstracklive.com/news/food-and-cooking-exploring-the-world-of-plantbased-protein-alternatives-emc-sc56-nu384-ta384-1282656-1.html",
+        "urlToImage": "https://media.newstrack.in/uploads/lifestyle-health/food-recipe/Jul/03/big_thumb/vsop_64a254e732f39.JPG",
+        "publishedAt": "2023-07-03T05:04:06Z",
+        "content": "IntroductionIn recent years, there has been a growing interest in plant-based diets and alternatives to traditional animal-based protein sources. Whether due to health concerns, ethical consideration… [+6798 chars]",
+        "uniqueId": "-3cbpco"
+      },
+      {
         "source": { "id": null, "name": "News9live.com" },
         "author": null,
         "title": "Over 25% people suffer central obesity and hypertension in Telangana: Lancet study - News9 LIVE",
@@ -58,6 +179,17 @@
         "uniqueId": "-1y1e9t"
       },
       {
+        "source": { "id": null, "name": "Moneycontrol" },
+        "author": "Rajeshwaari Kalla",
+        "title": "COPD: Causes, symptoms and treatment of Chronic Obstructive Pulmonary Disease - Moneycontrol",
+        "description": "Chronic Obstructive Pulmonary Disease (COPD) causes breathing difficulties and poses serious health risks. Here are the causes, diagnosis, and prevention strategies to safeguard your lungs. Quit smoking, avoid passive smoking, ensure proper ventilation, and e…",
+        "url": "https://www.moneycontrol.com/news/health-and-fitness/copd-causes-symptoms-and-treatment-of-chronic-obstructive-pulmonary-disease-10892531.html",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/07/Chronic-Obstructive-Pulmonary-Disease-770x433.jpg",
+        "publishedAt": "2023-07-03T02:51:28Z",
+        "content": "Is lighting a cigarette the most cathartic part of your day? Or do you live or work near someone who has been smoking for years? If you've been exposing yourself to lung irritants for a long time now… [+3309 chars]",
+        "uniqueId": "b388ch"
+      },
+      {
         "source": { "id": "the-times-of-india", "name": "The Times of India" },
         "author": "TNN",
         "title": "Study: Youth often overestimate BMI - Indiatimes.com",
@@ -89,144 +221,122 @@
         "publishedAt": "2023-07-03T02:30:00Z",
         "content": null,
         "uniqueId": "vzrnvf"
-      },
-      {
-        "source": { "id": "the-times-of-india", "name": "The Times of India" },
-        "author": "Abhijeet Singh",
-        "title": "Month-long drive against malaria & dengue begins - Indiatimes.com",
-        "description": "The authorities have started a month-long drive against communicable diseases like malaria and dengue in Noida and Ghaziabad. From July 1 to 31, over",
-        "url": "https://timesofindia.indiatimes.com/city/ghaziabad/month-long-drive-against-malaria-dengue-begins/articleshow/101443004.cms",
-        "urlToImage": "https://static.toiimg.com/thumb/msid-101443021,width-1070,height-580,imgsize-985377,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2023-07-03T02:14:00Z",
-        "content": "9 soft skills that are always in demand at work",
-        "uniqueId": "qlhg56"
-      },
-      {
-        "source": { "id": "the-times-of-india", "name": "The Times of India" },
-        "author": "Ram Sundaram",
-        "title": "Toddler's arm amputated, govt panel to probe case - Indiatimes.com",
-        "description": "The right arm of a one-and-a-half-year-old boy had to be amputated on Friday because of alleged medical negligence at the Rajiv Gandhi Government Gen",
-        "url": "https://timesofindia.indiatimes.com/city/chennai/toddlers-arm-amputated-govt-panel-to-probe-case/articleshow/101442807.cms",
-        "urlToImage": "https://static.toiimg.com/thumb/msid-101442823,width-1070,height-580,imgsize-1302031,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2023-07-03T01:56:00Z",
-        "content": "Dashing pictures of Amala Paul",
-        "uniqueId": "v4we2f"
-      },
-      {
-        "source": { "id": null, "name": "Morungexpress.com" },
-        "author": null,
-        "title": "Six ways to keep your eyes protected | MorungExpress | morungexpress.com - Morung Express",
-        "description": "New Delhi, July 3 (IANSlife) As India grapples with heat waves and soaring temperatures, showing no sign of relief, the scorching heat in summer can hinder your vision if left unprotected. During the peak hours of the day, particularly, when your eyes are",
-        "url": "https://www.morungexpress.com/",
-        "urlToImage": "https://morungexpress.com/uploads/2023/07/19844908_1688297385_pexels-karolina-grabowska-6660871.jpg",
-        "publishedAt": "2023-07-03T01:47:06Z",
-        "content": "New Delhi, July 3 (IANSlife) As India grapples with heat waves and soaring temperatures, showing no sign of relief, the scorching heat in summer can hinder your vision if left unprotected. During the… [+3845 chars]",
-        "uniqueId": "cugo2x"
-      },
-      {
-        "source": { "id": null, "name": "News-Medical.Net" },
-        "author": null,
-        "title": "Skipping nightly toothbrushing could heighten cardiovascular disease risk - News-Medical.Net",
-        "description": "Research investigated the impact of toothbrushing timing on cardiovascular disease risk. The study found that brushing teeth at night was associated with lower cardiovascular disease risk compared to not brushing at all.",
-        "url": "https://www.news-medical.net/news/20230702/Skipping-nightly-toothbrushing-could-heighten-cardiovascular-disease-risk.aspx",
-        "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_752625_1688151278606561.jpg",
-        "publishedAt": "2023-07-03T01:23:00Z",
-        "content": "In a recent study published in Scientific Reports, researchers determined whether the frequency of brushing one's teeth increases the risk of cardiovascular diseases (CVDs) in patients aged 20 years … [+4876 chars]",
-        "uniqueId": "-iamf3e"
-      },
-      {
-        "source": { "id": null, "name": "SciTechDaily" },
-        "author": null,
-        "title": "Vitamin D Supplements May Reduce Risk of Heart Attacks and Major Cardiovascular Events - SciTechDaily",
-        "description": "Findings show monthly vitamin D may prevent heart attacks in over 60s. Vitamin D supplements may reduce the risk of major cardiovascular events such as heart attacks among people aged over 60, finds a clinical trial published on June 28 by The BMJ. The resear…",
-        "url": "https://scitechdaily.com/vitamin-d-supplements-may-reduce-risk-of-heart-attacks-and-major-cardiovascular-events/",
-        "urlToImage": "https://scitechdaily.com/images/Vitamin-D-Supplement-Capsules-Sunshine.jpg",
-        "publishedAt": "2023-07-03T01:01:29Z",
-        "content": "ByBMJJuly 2, 2023\r\nA clinical trial has found that vitamin D supplements may reduce the risk of major cardiovascular events, including heart attacks, in people over 60. The study revealed a 9% decrea… [+5402 chars]",
-        "uniqueId": "-qtfe59"
-      },
-      {
-        "source": { "id": null, "name": "Hackspirit.com" },
-        "author": "Adrian Volenik",
-        "title": "11 things mentally strong people do to manage their emotions - Hack Spirit",
-        "description": "How important is mental health to you? Do you have special strategies and techniques to manage your emotions? Mentally strong people are known for managing and controlling their emotions effectively. […] More",
-        "url": "https://hackspirit.com/things-mentally-strong-people-do-to-manage-their-emotions/",
-        "urlToImage": "https://mlhmvq6amqed.i.optimole.com/cb:WANK~27a14/w:1600/h:840/q:mauto/f:avif/https://hackspirit.com/wp-content/uploads/2023/07/mentally-strong-handle-emotions.png",
-        "publishedAt": "2023-07-02T23:00:24Z",
-        "content": "How important is mental health to you? Do you have special strategies and techniques to manage your emotions?\r\nMentally strong people are known for managing and controlling their emotions effectively… [+6026 chars]",
-        "uniqueId": "-j2ne35"
-      },
-      {
-        "source": { "id": null, "name": "YouTube" },
-        "author": null,
-        "title": "CDC issues health alert after Malaria found in two states - WHAS11",
-        "description": "For the first time in 20 years, the CDC is sounding the alarm about malaria cases in the U.S. Four cases of the mosquito-borne disease have been detected in ...",
-        "url": "https://www.youtube.com/watch?v=qZWQXUpM70s",
-        "urlToImage": "https://i.ytimg.com/vi/qZWQXUpM70s/hqdefault.jpg",
-        "publishedAt": "2023-07-02T21:40:49Z",
-        "content": null,
-        "uniqueId": "-tkpql6"
-      },
-      {
-        "source": { "id": null, "name": "Greater Kashmir" },
-        "author": "IANS",
-        "title": "After diabetes and BP, obesity surge set off alarm bells across India - Greater Kashmir",
-        "description": "New Delhi: While India continues to battle the steep rise in two major lifestyle diseases -- type 2 diabetes and hypertension -- the growing cases of obesity ha",
-        "url": "https://www.greaterkashmir.com/health/after-diabetes-and-bp-obesity-surge-set-off-alarm-bells-across-india",
-        "urlToImage": "https://gumlet.assettype.com/greaterkashmir%2Fimport%2F2020%2F12%2F190305090441-child-obesity-rates-china-stock-large-169-e1607888342737.jpg?w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true",
-        "publishedAt": "2023-07-02T19:37:01Z",
-        "content": "According to the data from the 2016-2021 National Family Health Survey (NFHS), about 20 per cent of the Indian population is obese, including 5 per cent morbidly obese (severely obese) population. A … [+1016 chars]",
-        "uniqueId": "-jshmp"
-      },
-      {
-        "source": { "id": null, "name": "NewsBytes" },
-        "author": null,
-        "title": "Home remedies for nose bleeding - NewsBytes",
-        "description": "Nose bleeds in summer? Try some natural, easy home remedies with involve ingredients from your pantry.",
-        "url": "https://www.newsbytesapp.com/visualstories/lifestyle/home-remedies-for-nose-bleeding",
-        "urlToImage": "https://i.cdn.newsbytesapp.com/web/story168785610075639.jpg?tr=w-360",
-        "publishedAt": "2023-07-02T18:27:46Z",
-        "content": "Home remedies for nose bleeding",
-        "uniqueId": "-skeu4e"
-      },
-      {
-        "source": { "id": null, "name": "NewsBytes" },
-        "author": null,
-        "title": "How to strengthen bone after menopause - NewsBytes",
-        "description": "Menopause brings about hormonal changes that can weaken women's bones, making them more susceptible to fractures. Here are some strategies to prevent bone loss.",
-        "url": "https://www.newsbytesapp.com/visualstories/lifestyle/how-to-strengthen-bone-after-menopause",
-        "urlToImage": "https://i.cdn.newsbytesapp.com/web/story168786645799800.jpg?tr=w-360",
-        "publishedAt": "2023-07-02T18:22:41Z",
-        "content": "How to strengthenbone after menopause",
-        "uniqueId": "-eovipp"
-      },
-      {
-        "source": { "id": null, "name": "Contagionlive.com" },
-        "author": "Rachel Lutz",
-        "title": "The Link Between \"Brain Fog\" and Long COVID - Contagionlive.com",
-        "description": "Patients who perceived brain fog within 4 weeks of COVID-19 infection were twice as likely to report symptoms of long COVID than patients without cognitive deficits.",
-        "url": "https://www.contagionlive.com/view/the-link-between-brain-fog-and-long-covid",
-        "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/contagion/f7e46efa613dcc59922ce27d94b57d8009acd75f-6240x4160.jpg?rect=695,685,4252,3379&fit=crop&auto=format",
-        "publishedAt": "2023-07-02T18:08:30Z",
-        "content": "For COVID-19 patients, perceiving cognitive deficits or brain fog within the first 4 weeks of infection might be associated with long COVID, according to an original investigation published in JAMA N… [+3498 chars]",
-        "uniqueId": "d9pnr9"
-      },
-      {
-        "source": { "id": null, "name": "Wyrta.com" },
-        "author": "Wyrta Staff",
-        "title": "Chimbynta ki dkhot ka “Chi Iung” wow phah Test HIV - Wyrta",
-        "description": "Kam chibynta wow ya krehlang wei wow chimkhia kamjooh yow pynchlur ya kiwi wow wan ki chakhmat yow phah Test",
-        "url": "https://wyrta.com/chimbynta-ki-dkhot-ka-chi-iung-wow-phah-test-hiv/",
-        "urlToImage": "https://i0.wp.com/wyrta.com/wp-content/uploads/2023/07/utrtf.jpg?fit=962%2C491&ssl=1",
-        "publishedAt": "2023-07-02T17:34:31Z",
-        "content": "Kam chibynta wow ya krehlang wei wow chimkhia kamjooh yow pynchlur ya kiwi wow wan ki chakhmat yow phah Test HIV, neiliang ki dkhot ka “Chi Iung” da chim ki leh ya ka bynta wow phah Test ya idæ hapoh… [+1042 chars]",
-        "uniqueId": "-sa3gn0"
       }
     ]
   },
   {
     "category": "business",
     "data": [
+      {
+        "source": { "id": null, "name": "CarToq.com" },
+        "author": "Shantonil Nag",
+        "title": "Tata Tiago gets sandwiched between 2 trucks: Driver walks out scratch-less [Video] - CarToq.com",
+        "description": "Indian highways are extremely dangerous and we have seen multiple accidents caused by slow-moving, heavy vehicles. Here is one more where a Tata Tiago got sandwiched between two trucks on the highway. According to the information, the driver in the vehicle ca…",
+        "url": "https://www.cartoq.com/tata-tiago-gets-sandwiched-between-2-trucks-driver-walks-out-scratch-less-video/",
+        "urlToImage": "https://www.cartoq.com/wp-content/uploads/2023/07/tiago-tiago-crash-1.jpg",
+        "publishedAt": "2023-07-03T07:07:30Z",
+        "content": "Indian highways are extremely dangerous and we have seen multiple accidents caused by slow-moving, heavy vehicles. Here is one more where a Tata Tiago got sandwiched between two trucks on the highway… [+2563 chars]",
+        "uniqueId": "rozrx0"
+      },
+      {
+        "source": { "id": null, "name": "Entrackr" },
+        "author": "Entrackr",
+        "title": "Ola Postpaid: A failed customer service - Entrackr",
+        "description": null,
+        "url": "https://entrackr.com/2023/07/ola-postpaid-a-failed-customer-service/",
+        "urlToImage": null,
+        "publishedAt": "2023-07-03T07:05:26Z",
+        "content": null,
+        "uniqueId": "-obeyna"
+      },
+      {
+        "source": { "id": null, "name": "Livemint" },
+        "author": "Asit Manohar",
+        "title": "Tata Motors share hits record high after SEBI's nod to Tata Technologies IPO, passenger vehicle price hike announcement | Mint - Mint",
+        "description": "Tata Motors share price has risen by nearly 40% since Tata Technologies Ltd submitted its DRHP at SEBI in March 2023",
+        "url": "https://www.livemint.com/market/stock-market-news/tata-motors-share-hits-life-time-high-after-sebis-nod-to-tata-technologies-ipo-rise-in-passenger-vehicle-prices-11688366187417.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2023/07/03/600x338/Tata_Motors_share_Tata_Technologies_IPO_Stock_mkt_1688366429058_1688366429367.jpg",
+        "publishedAt": "2023-07-03T06:46:06Z",
+        "content": "Tata Technologies IPO effect: After getting the Securities and Exchange Board of India (SEBI) giving nodd to Tata Technologies Ltd for the launch of its initial public offering (IPO), Tata Motors sha… [+5133 chars]",
+        "uniqueId": "-j3hl5r"
+      },
+      {
+        "source": { "id": null, "name": "Bikewale.com" },
+        "author": "Ajinkya Lad",
+        "title": "Harley-Davidson X440 to be launched in India today - BikeWale",
+        "description": "The X440 has been jointly developed by Harley-Davidson and Hero MotoCorp, while the latter will manufacture it locally in India.",
+        "url": "https://www.bikewale.com/news/harleydavidson-x440-to-be-launched-in-india-today/",
+        "urlToImage": "https://imgd.aeplcdn.com/642x336/n/cw/ec/151897/harleydavidson-x440-left-front-three-quarter2.jpeg?isig=0&q=75&art=9",
+        "publishedAt": "2023-07-03T06:41:10Z",
+        "content": "- Will be the most affordable Harley-Davidson in India\r\n- Will rival the Royal Enfield Classic 350 and Honda Hness CB 350\r\n- Likely to be priced around Rs. 2.50 lakh (ex-showroom)\r\nHarley-Davidson is… [+1454 chars]",
+        "uniqueId": "-cleej4"
+      },
+      {
+        "source": { "id": null, "name": "Moneycontrol" },
+        "author": "Moneycontrol News",
+        "title": "India's manufacturing PMI falls to 57.8 in June - Moneycontrol",
+        "description": "The manufacturing PMI has now spent 24 consecutive months above the key level of 50 that separates expansion and contraction in activity",
+        "url": "https://www.moneycontrol.com/news/business/indias-manufacturing-pmi-falls-to-57-8-in-june-10893721.html",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/04/manufacturing_shutterstock_605472758-770x433.jpg",
+        "publishedAt": "2023-07-03T06:17:46Z",
+        "content": "India's manufacturing sector activity for June came in at 57.8, lower than May's 31-month high of 58.7, data released on July 3 showed.\r\nAt 57.8, the S&amp;P Global Purchasing Managers' Index (PMI) i… [+2775 chars]",
+        "uniqueId": "uef6bh"
+      },
+      {
+        "source": { "id": null, "name": "Livemint" },
+        "author": "Dhanya Nagasundaram",
+        "title": "BSE share price rises over 6% as board to consider share buyback on July 6 - Mint",
+        "description": "BSE Ltd has informed the Exchange about board meeting to be held on 06-Jul-2023 to consider Buyback. Following the news, BSE shares rose over 6% on Monday's trading session.",
+        "url": "https://www.livemint.com/market/stock-market-news/bse-share-price-rises-over-6-as-board-to-consider-share-buyback-on-july-6-11688363648378.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2023/07/03/600x338/09e0689a-8d89-11eb-afe3-8cef4ccbbd72_1622419217618_1688363753716.jpg",
+        "publishedAt": "2023-07-03T06:05:56Z",
+        "content": "BSE Ltd has informed the exchange about board meeting to be held on July 6 to consider buyback\" data-name=\"Buyback\"&gt;Buyback. Following the news, BSE shares rose over 6% on Monday's trading session… [+1338 chars]",
+        "uniqueId": "-hudofv"
+      },
+      {
+        "source": { "id": "the-times-of-india", "name": "The Times of India" },
+        "author": "Navdeep Singh",
+        "title": "Suzlon Energy shares hit 10% upper circuit, takes winning run to 6th day - Economic Times",
+        "description": "Shares of Suzlon Energy surged 10% to Rs 17, extending its winning streak for the sixth consecutive session. In the past six sessions, the stock has gained 24%, and it has risen 47% in the last month and over 175% in the past year. ICICI Securities expects Su…",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/suzlon-energy-shares-hit-10-upper-circuit-takes-winning-run-to-6th-day/articleshow/101449042.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-101449042,width-1070,height-580,imgsize-12540,overlay-etmarkets/photo.jpg",
+        "publishedAt": "2023-07-03T06:03:00Z",
+        "content": "Shares of Suzlon Energy hit a 10% upper circuit at Rs 17 in Monday's trade on BSE, taking their winning run to the sixth straight session as sentiment for the stock ran high.Meanwhile, in the last si… [+2195 chars]",
+        "uniqueId": "-w2ipkz"
+      },
+      {
+        "source": { "id": null, "name": "Carwale.com" },
+        "author": "Aditya Nadkarni",
+        "title": "Honda Elevate bookings open; to be launched in India during the festive season - CarWale",
+        "description": "Elevate prices in India to be revealed later this year. Pre-bookings are open on the official website and at all authorised dealerships.",
+        "url": "https://www.carwale.com/news/honda-elevate-bookings-open-to-be-launched-in-india-during-the-festive-season/",
+        "urlToImage": "https://imgd.aeplcdn.com/642x336/n/cw/ec/151891/honda-elevate-left-front-three-quarter2.jpeg?isig=0&art=1&q=75",
+        "publishedAt": "2023-07-03T05:53:30Z",
+        "content": "- Elevate prices in India to be revealed in September\r\n- Pre-bookings are now open for Rs. 21,000\r\nHonda Elevate bookings and launch timeline\r\nHonda Cars India has officially commenced bookings for t… [+1478 chars]",
+        "uniqueId": "-y6if7o"
+      },
+      {
+        "source": { "id": null, "name": "Moneycontrol" },
+        "author": "Sunil Shankar Matkar",
+        "title": "10 best bets when bulls rule the Street, benchmarks reach uncharted territories - Moneycontrol",
+        "description": "The benchmark Nifty is likely to march towards 19,300-19,500 levels in coming days, as long as it holds the 19,000 mark, which is an immediate support, then 18,800 levels, experts said",
+        "url": "https://www.moneycontrol.com/news/business/markets/10-best-bets-when-bulls-rule-the-street-benchmarks-reach-uncharted-territories-10891811.html",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/07/market_flat-770x433.jpg",
+        "publishedAt": "2023-07-03T05:44:08Z",
+        "content": "Bulls took full control over Dalal Street since later part of the last week and pushed the benchmark indices to uncharted territory on June 30 as we have seen buying across sectors with strong liftin… [+10853 chars]",
+        "uniqueId": "fed7no"
+      },
+      {
+        "source": { "id": null, "name": "Moneycontrol" },
+        "author": "S.N.Thyagarajan",
+        "title": "Zee Entertainment, IndusInd Bank announce settlement, NCLAT disposes of appeal - Moneycontrol",
+        "description": "In March 2023, the parties informed NCLAT that they have reached a settlement and as per the settlement agreement",
+        "url": "https://www.moneycontrol.com/news/business/zee-entertainment-indusind-bank-announce-settlement-nclat-disposes-of-appeal-10892791.html",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/01/court-order-shutterstock-770x431.png",
+        "publishedAt": "2023-07-03T05:38:32Z",
+        "content": "Zee Entertainment and IndusInd Bank have announced that all payments due to IndusInd bank were made by ZEEL on June 30. The National Company Law Appellate Tribunal (NCLAT) has accordingly disposed of… [+1728 chars]",
+        "uniqueId": "hzq55i"
+      },
       {
         "source": { "id": null, "name": "CarToq.com" },
         "author": "Shantonil Nag",
@@ -261,6 +371,17 @@
         "uniqueId": "ptggjk"
       },
       {
+        "source": { "id": null, "name": "Moneycontrol" },
+        "author": "Haripriya Suresh",
+        "title": "Sushanth Tharappan to be Infosys' new HR head, replaces Richard Lobo - Moneycontrol",
+        "description": "Sushanth Tharappan replaces Richard Lobo, who will move on to a special projects team under Chief Executive Officer Salil Parekh",
+        "url": "https://www.moneycontrol.com/news/business/sushanth-tharappan-to-infosys-new-hr-head-replaces-richard-lobo-10893261.html",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/07/SushanthTharappan_RichardLobo_Infosys-770x433.jpg",
+        "publishedAt": "2023-07-03T04:40:03Z",
+        "content": "In the second change at the top of the human resources (HR) department this year at Infosys, Sushanth Tharappan will replace Richard Lobo as head of HR at the company, sources told Moneycontrol.\r\nLob… [+1500 chars]",
+        "uniqueId": "ua7l4v"
+      },
+      {
         "source": { "id": null, "name": "Business Standard" },
         "author": null,
         "title": "Stock Market Live: Sensex breaches 65K, zooms 500 pts; Nifty tops 19,300 - Business Standard",
@@ -270,6 +391,17 @@
         "publishedAt": "2023-07-03T04:26:07Z",
         "content": "STOCK MARKET LIVE: Equity benchmark indices were firm in Monday's trade, scaling new all-time highs for the third straight day tracking strength in global equities. The BSE Sensex rose 300 points to … [+141 chars]",
         "uniqueId": "qhh6bv"
+      },
+      {
+        "source": { "id": null, "name": "Ipowatch.in" },
+        "author": "IPOWatch Team",
+        "title": "Senco Gold IPO GMP, Grey Market Premium Today - IPO Watch",
+        "description": "Senco Gold IPO GMP today. Find out Senco Gold IPO grey market premium, kostak, subject to sauda rates with expected listing gain.",
+        "url": "https://ipowatch.in/senco-gold-ipo-gmp-grey-market-premium-today/",
+        "urlToImage": "https://ipowatch.in/wp-content/uploads/2023/06/senco-gold-ipo.jpg",
+        "publishedAt": "2023-07-03T04:19:20Z",
+        "content": "Check out Senco Gold IPO GMP aka IPO Grey Market Premium, Kostak rates, and Subject to Sauda rates as of today. Senco Gold IPO GMP not started yet. Stay tuned for the latest IPO GMP numbers of Senco … [+8 chars]",
+        "uniqueId": "p9sokb"
       },
       {
         "source": { "id": null, "name": "Moneycontrol" },
@@ -294,158 +426,26 @@
         "uniqueId": "-v3skoo"
       },
       {
-        "source": { "id": null, "name": "Moneycontrol" },
-        "author": "Moneycontrol News",
-        "title": "Gujarat Gas stock in focus after government raises import duty on propane - Moneycontrol",
-        "description": "The propane prices for August expected to drop to $400 per tonne versus $450/tonne for July 2023. Propane is the biggest competing fuel for Gujarat Gas in the Morbi region.",
-        "url": "https://www.moneycontrol.com/news/business/stocks/gujarat-gas-stock-in-focus-after-government-raises-import-duty-on-propane-10892891.html",
-        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2005/07/Gujarat-Gas.jpg",
-        "publishedAt": "2023-07-03T03:27:56Z",
-        "content": "Gujarat Gas Ltd stock is in focus after the government raises the import duty on propane used for commercial purposes. The new import duty stands at 19.25%, a substantial increase compared to the pre… [+2347 chars]",
-        "uniqueId": "-rudkj7"
-      },
-      {
-        "source": { "id": null, "name": "Moneycontrol" },
-        "author": "Yaruqhullah Khan",
-        "title": "MC Exclusive: Wheels in motion, initial bids for CONCOR likely to be invited by August 1 - Moneycontrol",
-        "description": "Ministry of Railways is now on board the divestment of CONCOR and all earlier issues have been resolved.",
-        "url": "https://www.moneycontrol.com/news/business/companies/mc-exclusive-wheels-in-motion-initial-bids-for-concor-likely-to-be-invited-by-august-1-10891331.html",
-        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/07/container-corporation-of-india-770x433.jpg",
-        "publishedAt": "2023-07-03T03:13:58Z",
-        "content": "The disinvestment of Container Corporation of India (CONCOR) has picked up pace in the last few weeks and the government is expected to invite initial bids for the state-owned transporter by August 1… [+4375 chars]",
-        "uniqueId": "-66jvvm"
-      },
-      {
-        "source": { "id": null, "name": "BusinessLine" },
-        "author": "KS Badri Narayanan",
-        "title": "Stocks that will see action today: July 3, 2023 - BusinessLine",
-        "description": "Buzzing stocks: Automobile stocks, Reliance Industries, Adani Transmission, Zomato, Granules India, Kansai Nerolac, Factor Alloyds, Siemens, Dynamic Tech, GTPL Hathway, Shiva Cement",
-        "url": "https://www.thehindubusinessline.com/markets/stocks-that-will-see-action-today-july-3-2023/article67036194.ece",
-        "urlToImage": "https://bl-i.thgim.com/public/incoming/mgiqtu/article66880839.ece/alternates/LANDSCAPE_1200/hold-buy-sell.jpg",
-        "publishedAt": "2023-07-03T03:10:12Z",
-        "content": "The auto sales data for the month of June released by automobile companies reflect a mixed trend performances across the spectrum. Maruti Suzuki India\r\n sold 1.5 lakh units in June, a near 2 percent … [+5632 chars]",
-        "uniqueId": "-573iqh"
-      },
-      {
         "source": { "id": "the-times-of-india", "name": "The Times of India" },
-        "author": "Nikhil Agarwal",
-        "title": "SGX Nifty is now Gift Nifty. Timings, how to check data & key changes explained - Economic Times",
-        "description": "The $7.5 billion derivative trade from the Singapore Exchange (SGX) has shifted to the NSE International Exchange (NSE IX), resulting in the rebranding of SGX Nifty futures contracts as Gift Nifty. Gift Nifty will now trade in NSE IX, which operates under the…",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sgx-nifty-is-now-gift-nifty-timings-how-to-check-data-key-changes-explained/articleshow/101444084.cms",
-        "urlToImage": "https://img.etimg.com/thumb/msid-101444275,width-1070,height-580,imgsize-2228893,overlay-etmarkets/photo.jpg",
-        "publishedAt": "2023-07-03T03:00:43Z",
-        "content": "Marking the shift of a $7.5 billion derivative trade from the Singapore Exchange to the NSE International Exchange (NSE IX) in Gujarat's Gandhinagar, SGX Nifty futures contracts have been rebranded a… [+2719 chars]",
-        "uniqueId": "oacf68"
-      },
-      {
-        "source": { "id": null, "name": "Moneycontrol" },
-        "author": "Nikhil Patwardhan",
-        "title": "Byju’s Blues: More scrutiny of revenue recognition on cards for India’s edtech firms - Moneycontrol",
-        "description": "Investors are interested in how revenue is accounted for when bookings are finalised, such as whether a straight-line revenue recognition is employed (dividing revenue by the subscription period), how discounts and cancellations are accounted for, and the pro…",
-        "url": "https://www.moneycontrol.com/news/business/startup/byjus-blues-more-scrutiny-of-revenue-recognition-on-cards-for-indias-edtech-firms-10891711.html",
-        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/06/edtech1-770x433.jpg",
-        "publishedAt": "2023-07-03T02:55:54Z",
-        "content": "Following the crisis at Byju's, the world's most valued edtech company, there has been a growing focus of investors and advisors on examining the revenue recognition practices of India's edtech start… [+4502 chars]",
-        "uniqueId": "-kd1mqt"
-      },
-      {
-        "source": { "id": null, "name": "FXStreet" },
-        "author": "Haresh Menghani",
-        "title": "Gold Price Forecast: XAU/USD dips back closer to $1,915 on modest US Dollar uptick - FXStreet",
-        "description": "Gold price kicks off the new week on a softer note and for now, seems to have stalled the recent recovery from the $1,893-$1,892 area, or its lowest l",
-        "url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-dips-back-closer-to-1-915-on-modest-us-dollar-uptick-202307030245",
-        "urlToImage": "https://editorial.fxstreet.com/images/Markets/Commodities/Metals/Gold/stacked-gold-bars-13094022_Large.jpg",
-        "publishedAt": "2023-07-03T02:45:32Z",
-        "content": "<ul><li>Gold price edges lower on Monday and stalls its recent recovery from a multi-month low.</li><li>Bets for more rate hikes by Federal Reserve revive US Dollar demand and exert pressure.</li><li… [+3669 chars]",
-        "uniqueId": "-4iv9ve"
-      },
-      {
-        "source": { "id": null, "name": "GaadiWaadi.com" },
-        "author": "Team GaadiWaadi",
-        "title": "RE Himalayan 450's Off-Road Capability Demonstrated By CS Santosh - GaadiWaadi.com",
-        "description": "CS Santosh takes the upcoming Royal Enfield Himalayan 450 for an off-road spin, providing a glimpse into the capabilities of this ADV",
-        "url": "https://gaadiwaadi.com/re-himalayan-450s-off-road-capability-demonstrated-by-cs-santosh/",
-        "urlToImage": "https://gaadiwaadi.com/wp-content/uploads/2023/07/himalyan-450-2.jpg",
-        "publishedAt": "2023-07-03T02:32:19Z",
-        "content": "In a captivating video on social media, Dakar Rally finisher CS Santosh recently showcased the forthcoming Royal Enfield Himalayan 450’s off-road prowess. The video shows him effortlessly jumping, sl… [+2098 chars]",
-        "uniqueId": "-nqu3hj"
-      },
-      {
-        "source": { "id": null, "name": "Moneycontrol" },
-        "author": "Rakesh Patil",
-        "title": "Stock Market Today: Top 10 things to know before the market opens - Moneycontrol",
-        "description": "The Gift Nifty indicates a flat start for the broader index with a gain of 15 points on Monday.",
-        "url": "https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-78-10892421.html",
-        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/07/stocks_in_news-1-770x433.jpg",
-        "publishedAt": "2023-07-03T02:32:17Z",
-        "content": "The market is likely to open flat today as the Gift Nifty indicates a muted start for the broader index, with a gain of 15 points after opening the session at 19,360 points.\r\nOn June 30, the 30-pack … [+8004 chars]",
-        "uniqueId": "wmd67x"
-      },
-      {
-        "source": { "id": null, "name": "CarToq.com" },
-        "author": "Ajeesh Kuttan",
-        "title": "Mahindra Thar vs Maruti Jimny in an off-road video - CarToq.com",
-        "description": "The Mahindra Thar and Maruti Jimny are currently the most popular 4×4 SUVs in the Indian market. They are also among the most affordable 4x4s in the country. Since the launch of the Mahindra Thar, we have seen several reviews, off-road adventures, and modific…",
-        "url": "https://www.cartoq.com/mahindra-thar-vs-maruti-jimny-in-an-off-road-video/",
-        "urlToImage": "https://www.cartoq.com/wp-content/uploads/2023/06/jimny-vs-thar-featured-1.jpg",
-        "publishedAt": "2023-07-03T02:17:37Z",
-        "content": "The Mahindra Thar and Maruti Jimny are currently the most popular 4×4 SUVs in the Indian market. They are also among the most affordable 4x4s in the country. Since the launch of the Mahindra Thar, we… [+3061 chars]",
-        "uniqueId": "-4rkw52"
-      },
-      {
-        "source": { "id": null, "name": "Dsij.in" },
-        "author": "Kiran Shroff",
-        "title": "Penny stock under Rs 5; Board likely to announce rights issue! - Dalal Street Investment Journal",
-        "description": "Talking about the financials, the company has a market cap of Rs 22.68 crore with a 3-year CAGR of 19 per cent. The company reported positive numbers in its quarterly results and annual results....",
-        "url": "https://www.dsij.in/dsijarticledetail/penny-stock-under-rs-5-board-likely-to-announce-rights-issue-31431-1",
-        "urlToImage": "https://www.dsij.in/Portals/0/EasyDNNnews/31431/image_1214.jpg",
-        "publishedAt": "2023-07-03T02:02:12Z",
-        "content": "The shares of the company gave 68.75 per cent returns in 3 years to its investors.\r\nPro Fin Capital Services Ltd informed that a meeting of the Board of Directors of the company is scheduled to be he… [+1417 chars]",
-        "uniqueId": "kvo844"
+        "author": "Shivendra Kumar",
+        "title": "F&O Ban: Indiabulls Housing re-enters ban on Monday - Economic Times",
+        "description": "Indiabulls Housing Finance has been placed under the futures and options (F&O) ban, but will still be available for trading in the cash market. The ban on a stock occurs when the open interest (OI) crosses 95% of the market-wide positions limits (MWPL) and is…",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/fo-ban-indiabulls-housing-re-enters-ban-on-monday/articleshow/101445491.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-101445497,width-1070,height-580,imgsize-765180,overlay-etmarkets/photo.jpg",
+        "publishedAt": "2023-07-03T03:49:00Z",
+        "content": "Indiabulls Housing Finance again entered the F&amp;O ban for trade on Monday, July 3, 2023. However, the stock will be available for trading in the cash market.The future &amp; options contracts of a… [+1779 chars]",
+        "uniqueId": "9oe3vz"
       },
       {
         "source": { "id": null, "name": "Moneycontrol" },
         "author": "Moneycontrol News",
-        "title": "Morning Scan: All the big stories to get you started for the day - Moneycontrol",
-        "description": "A round-up of top newspaper stories to keep you ahead of others.",
-        "url": "https://www.moneycontrol.com/news/business/morning-scan-all-the-big-stories-to-get-you-started-for-the-day-503-10892211.html",
-        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/04/morning-scan-8-770x431.jpg",
-        "publishedAt": "2023-07-03T02:01:57Z",
-        "content": "#1. Foreign portfolio investors pour money into Indian equities, rally to become broad-based\r\nForeign portfolio investors pumped Rs 2.9 lakh crore into Indian equities in June, a monthly record, surp… [+6843 chars]",
-        "uniqueId": "80pg1b"
-      },
-      {
-        "source": { "id": "the-times-of-india", "name": "The Times of India" },
-        "author": "Saurabh Sinha",
-        "title": "In India, Boeing eyes final assembly line - Indiatimes.com",
-        "description": "India Business News: Boeing is 'looking at the business case for having a final assembly line (FAL) in India' and PM Narendra Modi's recent US visit has \"certainly laid th",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/in-india-boeing-eyes-final-assembly-line/articleshow/101442707.cms",
-        "urlToImage": "https://static.toiimg.com/thumb/msid-101443436,width-1070,height-580,imgsize-10664,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2023-07-03T01:43:00Z",
-        "content": "FD Calculator\r\nWhen investing in a fixed deposit, the amount you deposit earns interest as per the prevailing...\r\nCalculate Now",
-        "uniqueId": "y5a5pl"
-      },
-      {
-        "source": { "id": null, "name": "Financial Express" },
-        "author": null,
-        "title": "Stocks To Watch: HDFC, HDFC Bank, Adani Transmission, Vedanta, Reliance Industries, Coal India, GHCL, NTPC - The Financial Express",
-        "description": "Buzzing stocks: The GIFT Nifty indicated a flat opening for domestic indices BSE Sensex and NSE Nifty 50 after their two-session record-breaking streak. Here's a look at the stocks to watch in trade.",
-        "url": "https://www.financialexpress.com/market/stocks-to-watch-hdfc-hdfc-bank-adani-transmission-vedanta-reliance-industries-coal-india-ghcl-ntpc/3152448/",
-        "urlToImage": "https://www.financialexpress.com/wp-content/uploads/2023/07/Markets-10-Reuters-e1688347905293.jpg",
-        "publishedAt": "2023-07-03T01:34:49Z",
-        "content": "Stocks in focus: The GIFT Nifty recorded a 70 point gain during Mondays early trading session, with a value of 19,342.5 indicating a positive opening for domestic indices NSE Nifty 50 and BSE Sensex.… [+2942 chars]",
-        "uniqueId": "-jwnv0"
-      },
-      {
-        "source": { "id": null, "name": "Livemint" },
-        "author": "Asit Manohar",
-        "title": "Buy or sell: Vaishali Parekh recommends three stocks to buy today — 3rd July | Mint - Mint",
-        "description": "Buy or sell stocks: Vaishali Parekh has recommended three stocks to buy today — Bandhan Bank, Hero MotoCorp and Zensar Tech",
-        "url": "https://www.livemint.com/market/stock-market-news/buy-or-sell-vaishali-parekh-recommends-three-stocks-to-buy-today-3rd-july-11688346177679.html",
-        "urlToImage": "https://www.livemint.com/lm-img/img/2023/07/03/600x338/Buy_or_sell_stock_market_news_today_1688346429178_1688346429331.JPG",
-        "publishedAt": "2023-07-03T01:11:09Z",
-        "content": "Buy or sell stocks for today: In the week gone by, Indian stock market climbed to record high as all three key benchmark indices Sensex, Nifty and Bank Nifty hit a new high on Friday. In broad market… [+2712 chars]",
-        "uniqueId": "s13s9b"
+        "title": "GIFT Nifty starts trading today. Here's what you need to know - Moneycontrol",
+        "description": "All derivative contracts, valued at around $7.5 billion, that traded in Singapore will be relocated to the GIFT City in Gandhinagar.",
+        "url": "https://www.moneycontrol.com/news/business/markets/gift-nifty-starts-trading-today-heres-what-you-need-to-know-10892871.html",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/03/stocks_sensex_nifty_stockmarket1-1-770x433.jpg",
+        "publishedAt": "2023-07-03T03:37:37Z",
+        "content": "As Indian equity benchmarks hit new highs, the tradition of using the Singapore Stock Exchange Nifty, or SGX Nifty, to anticipate opening trends for shares in India is set to change starting July 3.\r… [+2491 chars]",
+        "uniqueId": "-lrkks4"
       }
     ]
   },
@@ -453,26 +453,103 @@
     "category": "entertainment",
     "data": [
       {
-        "source": { "id": null, "name": "Greatandhra.com" },
-        "author": "Venkat",
-        "title": "Allu Arjun Leaves The Ambitious Project? - Greatandhra",
-        "description": "It seems that Allu Arjun has made the decision to shun director Aditya Dhar's ambitious project, 'The Immortal Aswatthama'.",
-        "url": "https://www.greatandhra.com/movies/news/allu-arjun-leaves-the-ambitious-project-130389",
-        "urlToImage": "https://www.greatandhra.com/newphotos10/AA41688363344.jpeg",
-        "publishedAt": "2023-07-03T05:49:04Z",
-        "content": "It seems that Allu Arjun has made the decision to shun director Aditya Dhar's ambitious project, 'The Immortal Aswatthama'.\r\nSpeculations suggest that the underwhelming response to Om Raut's Adipurus… [+838 chars]",
-        "uniqueId": "adn8yc"
+        "source": { "id": null, "name": "123telugu.com" },
+        "author": null,
+        "title": "Viral Pic: Dhanush’s new look stuns fans - 123telugu",
+        "description": "Telugu cinema news, Telugu Movies Updates, Latest Movie reviews in Telugu, Telugu cinema reviews, telugu movie reviews, Tollywood, Box office collections, Telugu Movie show times, Theater List, telugu cinema tickets",
+        "url": "https://www.123telugu.com/mnews/viral-pic-dhanushs-new-look-stuns-fans.html",
+        "urlToImage": "https://www.123telugu.com/content/wp-content/themes/123telugu/images/logo.gif",
+        "publishedAt": "2023-07-03T07:30:00Z",
+        "content": "Kollywood star actor Dhanush will next be seen in Captain Miller, a period action-adventure movie directed by Arun Matheswaran. Meanwhile, rumors are circulating online about a ban on the actor in th… [+569 chars]",
+        "uniqueId": "w0bnm0"
       },
       {
         "source": { "id": null, "name": "123telugu.com" },
         "author": null,
-        "title": "Latest: It’s a wrap for Chiranjeevi’s Bholaa Shankar - 123telugu",
+        "title": "Animal gets new release date – Sandeep Vanga reveals the reason - 123telugu",
         "description": "Telugu cinema news, Telugu Movies Updates, Latest Movie reviews in Telugu, Telugu cinema reviews, telugu movie reviews, Tollywood, Box office collections, Telugu Movie show times, Theater List, telugu cinema tickets",
-        "url": "https://www.123telugu.com/mnews/latest-its-a-wrap-for-chiranjeevis-bholaa-shankar.html",
+        "url": "https://www.123telugu.com/mnews/animal-gets-new-release-date-sandeep-vanga-reveals-the-reason.html",
         "urlToImage": "https://www.123telugu.com/content/wp-content/themes/123telugu/images/logo.gif",
-        "publishedAt": "2023-07-03T05:00:00Z",
-        "content": "Megastar Chiranjeevi is all set to entertain his fans as Bholaa Shankar. Directed by Meher Ramesh and featuring Tamannaah Bhatia as the leading lady, this mega movie will be released in theaters on A… [+1123 chars]",
-        "uniqueId": "-hqwtco"
+        "publishedAt": "2023-07-03T07:02:00Z",
+        "content": "Ranbir Kapoor, the Bollywood star actor, has teamed up with Tollywood sensation Sandeep Reddy Vanga for Animal, an action film. A few days ago, it was officially announced that Animal, which was orig… [+1584 chars]",
+        "uniqueId": "-smmsu"
+      },
+      {
+        "source": { "id": "the-times-of-india", "name": "The Times of India" },
+        "author": "etimes.in",
+        "title": "Following the postponement of Ranbir Kapoor starrer 'Animal', Akshay Kumar drops a new poster of 'OMG 2'; - Indiatimes.com",
+        "description": "Ahead of its release on August 11, Akshay Kumar dropped a new poster of 'OMG 2' where he is seen dressed as Lord Shiva. The teaser of the movie to be",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/following-the-postponement-of-ranbir-kapoor-starrer-animal-akshay-kumar-drops-a-new-poster-of-omg-2-promises-to-share-the-teaser-soon/articleshow/101450214.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-101450214,width-1070,height-580,imgsize-111506,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2023-07-03T06:46:00Z",
+        "content": null,
+        "uniqueId": "owzctd"
+      },
+      {
+        "source": { "id": null, "name": "123telugu.com" },
+        "author": null,
+        "title": "Official: Ram Pothineni – Boyapati Sreenu movie titled Skanda - 123telugu",
+        "description": "Telugu cinema news, Telugu Movies Updates, Latest Movie reviews in Telugu, Telugu cinema reviews, telugu movie reviews, Tollywood, Box office collections, Telugu Movie show times, Theater List, telugu cinema tickets",
+        "url": "https://www.123telugu.com/mnews/official-ram-pothineni-boyapati-sreenu-movie-titled-skanda.html",
+        "urlToImage": "https://www.123telugu.com/content/wp-content/themes/123telugu/images/logo.gif",
+        "publishedAt": "2023-07-03T06:03:00Z",
+        "content": "Tollywood’s energetic actor Ram Pothineni has joined forces with the mass director Boyapati Sreenu for an out-and-out action entertainer, tentatively called Boyapati Rapo. Today, the makers have anno… [+824 chars]",
+        "uniqueId": "-xpwmww"
+      },
+      {
+        "source": { "id": null, "name": "Mid-day" },
+        "author": null,
+        "title": "Jawan: Shah Rukh Khan-starrer's trailer to drop in theatres with the prints of 'Mission: Impossible-Dead Reckoning' - mid-day.com",
+        "description": "Jawan Trailer: The trailer of SRK's next will be played in theatres along with the release of Mission Impossible- Dead Reckoning on July 12",
+        "url": "https://www.mid-day.com/entertainment/bollywood-news/article/jawan-trailer-shah-rukh-khan-films-glimpse-to-drop-in-theatres-with-the-prints-of-mission-impossible-dead-reckoning-23295679",
+        "urlToImage": "https://images.mid-day.com/images/images/2023/jul/jawansrksas_d.jpg",
+        "publishedAt": "2023-07-03T05:59:00Z",
+        "content": "Jawan Trailer: The trailer of SRK's next will be played in theatres along with the release of Mission Impossible- Dead Reckoning on July 12\r\nJawan still\r\nAfter the unprecedented success of 'Pathaan',… [+1270 chars]",
+        "uniqueId": "-n4evxc"
+      },
+      {
+        "source": { "id": "the-times-of-india", "name": "The Times of India" },
+        "author": "TIMESOFINDIA.COM",
+        "title": "Popular bodybuilder Jo Lindner dies of rippling muscle disease: Know what it is, what are the risk factors - Indiatimes.com",
+        "description": "​German bodybuilder Jo Lindner's death has drawn massive attention towards the rippling muscle disease, of which the 30 year old has died. The death of the bodybuilder has been confirmed through social media post, made by Lindner's friends, who fondly call hi…",
+        "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/popular-bodybuilder-jo-lindner-dies-of-rippling-muscle-disease-know-what-it-is-what-are-the-risk-factors/photostory/101448157.cms",
+        "urlToImage": "https://static.toiimg.com/photo/101448216.cms",
+        "publishedAt": "2023-07-03T05:41:48Z",
+        "content": "German bodybuilder Jo Lindner's death has drawn massive attention towards the rippling muscle disease, of which the 30 year old has died. The death of the bodybuilder has been confirmed through socia… [+280 chars]",
+        "uniqueId": "-6rkn8u"
+      },
+      {
+        "source": { "id": "the-times-of-india", "name": "The Times of India" },
+        "author": "TOI Photogallery",
+        "title": "Ananya Panday channels her inner diva in bodycon dresses - Indiatimes.com",
+        "description": "Let’s take a look at Ananya Panday’s sartorial style statements….",
+        "url": "https://photogallery.indiatimes.com/web-stories/ananya-panday-channels-her-inner-diva-in-bodycon-dresses/photostory/101447561.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-101447602,width-900,height-1200,resizemode-6.cms",
+        "publishedAt": "2023-07-03T05:21:28Z",
+        "content": "Ananya looked ravishing in a bright yellow dress paired with matching heels by Christian Louboutin. The actress looked stylish in pink lips, blushed cheeks and kept hair in beach waves.",
+        "uniqueId": "970hml"
+      },
+      {
+        "source": { "id": null, "name": "Greatandhra.com" },
+        "author": "Venkat",
+        "title": "US BO: Samajavaragamana Gains Over Spy.. - Greatandhra",
+        "description": "Many thought that Sree Vishnu's film would have no chance against Nikhil Siddhartha's film.",
+        "url": "https://www.greatandhra.com/movies/news/us-bo-samajavaragamana-gains-over-spy-130388",
+        "urlToImage": "https://www.greatandhra.com/newphotos10/Samajavaragamana21688359676.jpg",
+        "publishedAt": "2023-07-03T04:47:56Z",
+        "content": "Many thought that Sree Vishnu's film would have no chance against Nikhil Siddhartha's film.\r\nAside from that, Nikhil Siddharth's film \"Spy\" had high expectations because of its theme and the actor is… [+749 chars]",
+        "uniqueId": "-9180ib"
+      },
+      {
+        "source": { "id": null, "name": "Greatandhra.com" },
+        "author": "Vamsi",
+        "title": "Bholaa Shankar Shoot Wrapped Up.. - Greatandhra",
+        "description": "All the works related to megastar Chiranjeevi’s Bholaa Shankar are progressing as per the schedules. Meanwhile, the shoot of the movie is wrapped up.",
+        "url": "https://www.greatandhra.com/movies/news/bholaa-shankar-shoot-wrapped-up-130387",
+        "urlToImage": "https://www.greatandhra.com/newphotos10/bholaaa1688359531.jpeg",
+        "publishedAt": "2023-07-03T04:45:31Z",
+        "content": "All the works related to megastar Chiranjeevi’s Bholaa Shankar are progressing as per the schedules. Meanwhile, the shoot of the movie is wrapped up.\r\nOn the occasion, director Meher Ramesh thanked t… [+670 chars]",
+        "uniqueId": "ti2g9g"
       },
       {
         "source": { "id": null, "name": "123telugu.com" },
@@ -486,6 +563,17 @@
         "uniqueId": "bjai4l"
       },
       {
+        "source": { "id": "the-times-of-india", "name": "The Times of India" },
+        "author": null,
+        "title": "WHAT? Aamir Khan was insecure about his height at the start of his career; Here’s what the actor said in an old interview - Indiatimes.com",
+        "description": "WHAT? Aamir Khan was insecure about his height at the start of his career; Here’s what the actor said in an old interview.Aamir Khan is one of the most successful stars of the country who has many hit films to his credit. However, not many know that the actor…",
+        "url": "https://timesofindia.indiatimes.com/videos/etimes/bollywood/what-aamir-khan-was-insecure-about-his-height-at-the-start-of-his-career-heres-what-the-actor-said-in-an-old-interview/videoshow/101446020.cms",
+        "urlToImage": "https://timesofindia.indiatimes.com/photo/101446020.cms",
+        "publishedAt": "2023-07-03T04:14:33Z",
+        "content": "Jul 03, 2023, 09:44 ISTSource: etimes.inAamir Khan is one of the most successful stars of the country who has many hit films to his credit. However, not many know that the actor has been insecure abo… [+1125 chars]",
+        "uniqueId": "rni73e"
+      },
+      {
         "source": { "id": null, "name": "Mid-day" },
         "author": null,
         "title": "'Ramayan is an institution that teaches how to live life' says Arun Govil who played Lord Ram - mid-day.com",
@@ -495,6 +583,28 @@
         "publishedAt": "2023-07-03T04:11:00Z",
         "content": "Veteran actor Arun Govil, who played the character of Lord Ram in Ramanand Sagar's show went down memory lane and shared how he became part of it\r\nArun Govil\r\nWith Ramanand Sagar's popular Hindi TV s… [+3132 chars]",
         "uniqueId": "rejdpj"
+      },
+      {
+        "source": { "id": null, "name": "Bollywood Hungama" },
+        "author": "Bollywood Hungama",
+        "title": "SCOOP: Priyanka Chopra walks out of Jee Le Zara; picks Citadel 2 over the Katrina Kaif-Alia Bhatt film - Bollywood Hungama",
+        "description": null,
+        "url": "https://www.bollywoodhungama.com/news/bollywood/scoop-priyanka-chopra-walks-jee-le-zara-picks-citadel-2-katrina-kaif-alia-bhatt-film/",
+        "urlToImage": null,
+        "publishedAt": "2023-07-03T04:09:45Z",
+        "content": null,
+        "uniqueId": "-hq1axt"
+      },
+      {
+        "source": { "id": null, "name": "Rediff.com" },
+        "author": "JOGINDER TUTEJA",
+        "title": "Will July See Controversy In Theatres? - Rediff.com",
+        "description": "The summer saw its fair share of hits at the box office. Now, the monsoon has quite a few movie releases from across genres.",
+        "url": "https://www.rediff.com/movies/report/will-july-see-controversy-in-theatres/20230703.htm",
+        "urlToImage": "https://im.rediff.com/movies/2023/jun/30theatre-july1.jpg",
+        "publishedAt": "2023-07-03T03:44:44Z",
+        "content": "The summer saw its fair share of hits at the box office. Now, the monsoon has quite a few movie releases from across genres.\r\nJoginder Tuteja lists the July theatre releases.\r\nNeeyatRelease date: Jul… [+2830 chars]",
+        "uniqueId": "-gwly1j"
       },
       {
         "source": { "id": "the-times-of-india", "name": "The Times of India" },
@@ -517,6 +627,17 @@
         "publishedAt": "2023-07-03T03:30:00Z",
         "content": "Global star Ram Charan and Bollywood actress Deepika Padukone are currently engaged in their individual projects. However, they have come together for a special collaboration, which is not a movie.\r\n… [+1140 chars]",
         "uniqueId": "3ux6hm"
+      },
+      {
+        "source": { "id": "the-times-of-india", "name": "The Times of India" },
+        "author": "etimes.in",
+        "title": "Here's why Suniel Shetty did not send his kids Ahan and Athiya to Indian schools - Indiatimes.com",
+        "description": "Suniel Shetty reveals he wanted his children Ahan Shetty and Athiya Shetty not to be treated differently as he speaks about sending them to Indian sch",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/heres-why-suniel-shetty-did-not-send-his-kids-ahan-and-athiya-to-indian-schools/articleshow/101445041.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-101445041,width-1070,height-580,imgsize-42640,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2023-07-03T03:29:00Z",
+        "content": null,
+        "uniqueId": "-n3a1b9"
       },
       {
         "source": { "id": null, "name": "Koreaboo.com" },
@@ -550,127 +671,6 @@
         "publishedAt": "2023-07-03T02:58:34Z",
         "content": "Kangana Ranaut\r\n recently organised a success party of her latest production Tiku Weds Sheru\r\n starring Nawazuddin Siddiqui and Avneet Kaur\r\n in the lead roles. Several pictures and videos from the b… [+934 chars]",
         "uniqueId": "xt8560"
-      },
-      {
-        "source": { "id": null, "name": "Koreaboo.com" },
-        "author": null,
-        "title": "Just Why Did The Director Of BTS's \"War Of Hormone\" Music Video Have To Apologize To V? - Koreaboo",
-        "description": "A director of BTS's \"War of Hormone\" music video once shared that V made a request to him, but he could not fulfill it and hilariously apologized.",
-        "url": "https://www.koreaboo.com/stories/just-director-bts-war-hormone-music-video-apologize-v/",
-        "urlToImage": "https://lh3.googleusercontent.com/wHjVyQc3J3dNcCKQ-6wz2iP49MSsI2BHoI6rCC6PfulRaDyApNGCU3Sf0NpZ5Xk-II7k7HvDGygTpLA1yAtUDGxzr2gKQs0lvzIT-TBteb9gDw=w1200-h630-rj-pp-e365",
-        "publishedAt": "2023-07-03T02:51:48Z",
-        "content": "In BTS‘s “War of Hormone” music video, V had a lollipop in some scenes. There was one scene where V threw his lollipop, and there’s a funny story about this scene!\r\nYour browser does not support vide… [+988 chars]",
-        "uniqueId": "bfvzs9"
-      },
-      {
-        "source": { "id": null, "name": "123telugu.com" },
-        "author": null,
-        "title": "Theri, Ustaad Bhagat Singh’s Hindi version seals its release date - 123telugu",
-        "description": "Telugu cinema news, Telugu Movies Updates, Latest Movie reviews in Telugu, Telugu cinema reviews, telugu movie reviews, Tollywood, Box office collections, Telugu Movie show times, Theater List, telugu cinema tickets",
-        "url": "https://www.123telugu.com/mnews/theri-ustaad-bhagat-singhs-hindi-version-seals-its-release-date.html",
-        "urlToImage": "https://www.123telugu.com/content/wp-content/themes/123telugu/images/logo.gif",
-        "publishedAt": "2023-07-03T02:30:00Z",
-        "content": "It’s well known that Thalapathy Vijay’s blockbuster cop action drama, Theri, is being remade in Telugu as Ustaad Bhagat Singh, with Pawan Kalyan playing the main lead. On the other hand, Theri will a… [+805 chars]",
-        "uniqueId": "-go5vya"
-      },
-      {
-        "source": { "id": null, "name": "123telugu.com" },
-        "author": null,
-        "title": "Confirmed: Pawan Kalyan to make Instagram debut soon - 123telugu",
-        "description": "Telugu cinema news, Telugu Movies Updates, Latest Movie reviews in Telugu, Telugu cinema reviews, telugu movie reviews, Tollywood, Box office collections, Telugu Movie show times, Theater List, telugu cinema tickets",
-        "url": "https://www.123telugu.com/mnews/confirmed-pawan-kalyan-to-make-instagram-debut-soon.html",
-        "urlToImage": "https://www.123telugu.com/content/wp-content/themes/123telugu/images/logo.gif",
-        "publishedAt": "2023-07-03T01:31:00Z",
-        "content": "Power Star Pawan Kalyan, the star actor, and political leader, will be seen next in the movies Bro, OG, Ustaad Bhagat Singh, and Hari Hara Veera Mallu. All these movies are at various stages of produ… [+802 chars]",
-        "uniqueId": "638isb"
-      },
-      {
-        "source": { "id": null, "name": "BBC News" },
-        "author": "https://www.facebook.com/bbcnews",
-        "title": "Benodebehari Mukherjee: Blind Indian painter's forgotten scroll found after 100 years - BBC",
-        "description": "Benodebehari Mukherjee who lost his vision entirely at 53 came to define modern art in 20th Century India.",
-        "url": "https://www.bbc.com/news/world-asia-india-65982052",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0816/production/_130207020_benodebehariinsantiniketan1940s-adjusted.jpg",
-        "publishedAt": "2023-07-03T00:33:16Z",
-        "content": "A 44 foot-long Japanese style handscroll painted by a famous Indian blind artist nearly 100 years ago has resurfaced and gone on public display for the first time in the city of his birth, Kolkata.\r\n… [+6475 chars]",
-        "uniqueId": "774u9l"
-      },
-      {
-        "source": { "id": null, "name": "VOGUE India" },
-        "author": "Snehaa Khanna Sahgal",
-        "title": "Aries Horoscope Today: July 3, 2023 - VOGUE India",
-        "description": "Read VOGUE India's free daily Aries horoscope for 3rd July, 2023 to learn more about what the stars have in store for you! Click here for our cosmic tips",
-        "url": "https://www.vogue.in/horoscope/product/aries-horoscope-today-july-3-2023/",
-        "urlToImage": "https://media.vogue.in/wp-content/uploads/2019/12/Aries-.jpg",
-        "publishedAt": "2023-07-03T00:20:53Z",
-        "content": "If you only look through the branches you will see the sun shining brightly, Aries. You may feel worn out, but hey, victory tastes sweet nonetheless. If your choice to put your feet up resulted in yo… [+364 chars]",
-        "uniqueId": "-kztlj7"
-      },
-      {
-        "source": { "id": null, "name": "Greatandhra.com" },
-        "author": "Venkat",
-        "title": "I Have 'V****', Not 'B****': Anasuya.. - Greatandhra",
-        "description": "Actress Rashmi Guatam had an argument with a netizen about Hindu caste system. She mentioned that other religions have 'divisions' similar to Hinduism.",
-        "url": "https://www.greatandhra.com/movies/news/i-have-v-not-b-anasuya-130383",
-        "urlToImage": "https://www.greatandhra.com/newphotos10/anasuya81688322244.jpg",
-        "publishedAt": "2023-07-02T18:24:04Z",
-        "content": "Actress Rashmi Guatam had an argument with a netizen about Hindu caste system. She mentioned that other religions have 'divisions' similar to Hinduism.\r\nWhen the user mentioned the discrimination aga… [+817 chars]",
-        "uniqueId": "-4jy2bm"
-      },
-      {
-        "source": { "id": "the-times-of-india", "name": "The Times of India" },
-        "author": "etimes.in",
-        "title": "Vicky Kaushal, Karan Johar, Neha Dhupa, Angad Bedi, Tripti Dimri: Celebs at the wrap up party of 'Mere Me - Indiatimes.com",
-        "description": "'Mere Mehboob Mere Sanam' stars Vicky Kaushal along with Tripti Dimri. The film also stars Amy Virk and is directed by Anand Tiwari. The film which is",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vicky-kaushal-karan-johar-neha-dhupa-angad-bedi-tripti-dimri-celebs-at-the-wrap-up-party-of-mere-mehboob-mere-sanam-pics-inside/articleshow/101439034.cms",
-        "urlToImage": "https://static.toiimg.com/thumb/msid-101439004,width-1070,height-580,imgsize-60074,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2023-07-02T18:23:00Z",
-        "content": "Vicky Kaushal-Tripti Dimri starrer Mere Mehboob Mere Sanam pushed back to 2024: ReportsVicky Kaushal is on a professional high. The actor will soon be seen in Mere Mehboob Mere Sanam opposite Tripti … [+97 chars]",
-        "uniqueId": "4u5wpn"
-      },
-      {
-        "source": { "id": null, "name": "Justshowbiz.net" },
-        "author": "Justshowbiz",
-        "title": "Yeh Rishta Kya Kehlata Hai 3rd July 2023 Written Update: Abhinav console Akshara - Justshowbiz",
-        "description": null,
-        "url": "https://www.justshowbiz.net/yeh-rishta-kya-kehlata-hai-3rd-july-2023-written-update-abhinav/",
-        "urlToImage": null,
-        "publishedAt": "2023-07-02T18:02:00Z",
-        "content": null,
-        "uniqueId": "-2k5eqk"
-      },
-      {
-        "source": { "id": null, "name": "YouTube" },
-        "author": null,
-        "title": "Full WWE Money in the Bank Results and Highlights: WWE Now, July 1, 2023 - WWE",
-        "description": "The Usos outlasted Roman Reigns and Solo Sikoa in The Bloodline Civil War, Damian Priest and IYO SKY won Money in the Bank, Seth “Freakin” Rollins retained t...",
-        "url": "https://www.youtube.com/watch?v=cA9U4GdxbXM",
-        "urlToImage": "https://i.ytimg.com/vi/cA9U4GdxbXM/maxresdefault.jpg",
-        "publishedAt": "2023-07-02T16:46:44Z",
-        "content": null,
-        "uniqueId": "q3igu7"
-      },
-      {
-        "source": { "id": "the-times-of-india", "name": "The Times of India" },
-        "author": "TIMESOFINDIA.COM",
-        "title": "#CelebrityEvenings: From Sobhita Dhulipala to Shilpa Shetty Kundra, Bollywood celebs spotted in Mumbai - Indiatimes.com",
-        "description": "The paparazzi captured Bollywood stars at different locations in Mumbai on July 2. Celebrities including Sobhita Dhulipala, Shilpa Shetty Kundra, Suniel Shetty, Karan Kundrra and girlfriend Tejasswi Prakash, Badshah, Kirron Kher, Sajid Nadiadwala's w",
-        "url": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/celebrityevenings-from-sobhita-dhulipala-to-shilpa-shetty-kundra-bollywood-celebs-spotted-in-mumbai/videoshow/101436358.cms",
-        "urlToImage": "https://timesofindia.indiatimes.com/photo/101436358/size-58096/101436358.jpg",
-        "publishedAt": "2023-07-02T16:36:00Z",
-        "content": "The paparazzi captured Bollywood stars at different locations in Mumbai on July 2. Celebrities including Sobhita Dhulipala\r\n, Shilpa Shetty Kundra\r\n, Suniel Shetty\r\n, Karan Kundrra and girlfriend Tej… [+248 chars]",
-        "uniqueId": "4fhkfa"
-      },
-      {
-        "source": { "id": "the-times-of-india", "name": "The Times of India" },
-        "author": "etimes.in",
-        "title": "‘Gol Maal’ actor Harish Magon passes away at 76 - Indiatimes.com",
-        "description": "Harish Magon is known for his cameos in many movies. While he wasn't seen as a lead in most movies, even his few scenes in movies like Amol Palekar's",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/gol-maal-actor-harish-magon-passes-away-at-76/articleshow/101438052.cms",
-        "urlToImage": "https://static.toiimg.com/thumb/msid-101438038,width-1070,height-580,imgsize-19358,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2023-07-02T16:23:00Z",
-        "content": null,
-        "uniqueId": "d7jb6m"
       }
     ]
   },
@@ -678,25 +678,91 @@
     "category": "science",
     "data": [
       {
-        "source": { "id": null, "name": "News9live.com" },
-        "author": "News9 LIVE",
-        "title": "Hubble Space Telescope captures highly irregular galaxy ESO 174-1 - News9 LIVE",
-        "description": null,
-        "url": "https://www.news9live.com/science/hubble-space-telescope-captures-highly-irregular-galaxy-eso-174-1-2199155",
+        "source": { "id": "the-times-of-india", "name": "The Times of India" },
+        "author": "Mohita Tewari",
+        "title": "Stars in eyes, sky is limit for this astrophotographer - Indiatimes.com",
+        "description": "When astrophotography began as a hobby for Harshwardhan Pathak three years ago, he had never dreamt that it would get him international recognition.Ac",
+        "url": "https://timesofindia.indiatimes.com/city/lucknow/stars-in-eyes-sky-is-limit-for-this-astrophotographer/articleshow/101452407.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2023-07-03T07:51:00Z",
+        "content": "9 soft skills that are always in demand at work",
+        "uniqueId": "-le2xde"
+      },
+      {
+        "source": { "id": null, "name": "Macau Business" },
+        "author": null,
+        "title": "China's FAST telescope finds key evidence for nanohertz gravitational waves - Macau Business",
+        "description": "China, MNA | China's FAST telescope found key evidence for the existence of nanohertz gravitational waves, which is important in studying problems in contemporary astrophysics such as supermassive black holes, the history of galaxy mergers, and the formation …",
+        "url": "https://www.macaubusiness.com/chinas-fast-telescope-finds-key-evidence-for-nanohertz-gravitational-waves/",
         "urlToImage": null,
-        "publishedAt": "2023-07-03T06:23:33Z",
-        "content": null,
-        "uniqueId": "2ygyjl"
+        "publishedAt": "2023-07-03T07:46:49Z",
+        "content": "China’s FAST telescope found key evidence for the existence of nanohertz gravitational waves, which is important in studying problems in contemporary astrophysics such as supermassive black holes, th… [+1509 chars]",
+        "uniqueId": "7rgv5i"
+      },
+      {
+        "source": { "id": null, "name": "Interesting Engineering" },
+        "author": "Mrigakshi Dixit",
+        "title": "NASA's Mars Ingenuity chopper 'phones home' after 63 days of dead silence - Interesting Engineering",
+        "description": "The team announced that they received confirmation of Flight 52, in which Ingenuity successfully flew 1,191 feet above the surface of Mars for 139 seconds.",
+        "url": "https://interestingengineering.com/science/nasas-mars-ingenuity-dead-silence",
+        "urlToImage": "https://dnd2oi6izkvoi.cloudfront.net/2023/07/03/image/jpeg/BKaypzt0nOupjW2eje2G1HzcUOZP3FqK4Zgi1iS4.jpg",
+        "publishedAt": "2023-07-03T07:36:00Z",
+        "content": "Communication was restored when the Perseverance rover climbed the hill to check on Ingenuity. \r\nThe mission team is now gearing for Flight 53 to the west, which is expected to take place in the comi… [+1155 chars]",
+        "uniqueId": "tsgv77"
+      },
+      {
+        "source": { "id": null, "name": "EastMojo" },
+        "author": "The Conversation",
+        "title": "First ever view of the Milky Way seen through neutrino particles - EastMojo",
+        "description": "Data collected by an observatory in Antarctica has produced the first view of the Milky Way galaxy through the lens of neutrino particles. It’s the first time astronomers have seen our galaxy “painted” with a particle, rather than in different wavelengths of …",
+        "url": "http://www.eastmojo.com/space/2023/07/03/first-ever-view-of-the-milky-way-seen-through-neutrino-particles/",
+        "urlToImage": "https://i0.wp.com/www.eastmojo.com/wp-content/uploads/2022/06/Gaia-mapping-the-stars-of-the-Milky-Way.jpg?fit=1920%2C1080&ssl=1",
+        "publishedAt": "2023-07-03T07:30:00Z",
+        "content": "Data collected by an observatory in Antarctica has produced our first view of the Milky Way galaxy through the lens of neutrino particles. Its the first time we have seen our galaxy painted with a pa… [+6929 chars]",
+        "uniqueId": "-wzxnr6"
       },
       {
         "source": { "id": null, "name": "News9live.com" },
         "author": "News9 LIVE",
-        "title": "UN space agency calls for robust international response to asteroid threat - News9 LIVE",
+        "title": "Astronomers predict the existence of merging binary black hole pairs - News9 LIVE",
         "description": null,
-        "url": "https://www.news9live.com/science/un-space-agency-calls-for-robust-international-response-to-asteroid-threat-2199083",
+        "url": "https://www.news9live.com/science/astronomers-predict-the-existence-of-merging-binary-black-hole-pairs-2199221",
         "urlToImage": null,
-        "publishedAt": "2023-07-03T05:50:02Z",
+        "publishedAt": "2023-07-03T07:11:52Z",
         "content": null,
+        "uniqueId": "-kwz24n"
+      },
+      {
+        "source": { "id": null, "name": "News9live.com" },
+        "author": null,
+        "title": "Hubble Space Telescope captures highly irregular galaxy ESO 174-1 - News9 LIVE",
+        "description": "The observations will help scientists better understand the history and evolution of our local corner in the universe.",
+        "url": "https://www.news9live.com/science/hubble-space-telescope-captures-highly-irregular-galaxy-eso-174-1-2199155",
+        "urlToImage": "https://images.news9live.com/wp-content/uploads/2023/07/potw2326a-Cropped.jpg",
+        "publishedAt": "2023-07-03T06:23:33Z",
+        "content": "The Hubble Space Telescope has captured the nearby irregular galaxy ESO 174-1 as part of a campaign to investigate the properties of the galaxies in the neighbourhood of the Milky Way, and resolve th… [+1980 chars]",
+        "uniqueId": "2ygyjl"
+      },
+      {
+        "source": { "id": null, "name": "Cgtn.com" },
+        "author": "CGTN",
+        "title": "First supermoon of 2023 ascends above UK - CGTN",
+        "description": "July's full moon, also known as \"Buck Moon,\" graces the sky over the UK. It is named so because bucks or male deer grow antlers at this time of year in the Northern Hemisphere. It's also the first of four supermoons of 2023. The supermoon, which is bigger",
+        "url": "https://news.cgtn.com/news/2023-07-03/First-supermoon-of-2023-ascends-above-UK-1l8fMHhmOIg/index.html",
+        "urlToImage": "https://news.cgtn.com/news/2023-07-03/First-supermoon-of-2023-ascends-above-UK-1l8fMHhmOIg/img/eb6a0173c2874c6788ec5db08f0991b8/eb6a0173c2874c6788ec5db08f0991b8-1280.jpeg",
+        "publishedAt": "2023-07-03T06:04:34Z",
+        "content": "July's full moon, also known as \"Buck Moon,\" graces the sky over the UK. It is named so because bucks or male deer grow antlers at this time of year in the Northern Hemisphere. It's also the first of… [+157 chars]",
+        "uniqueId": "rj0z9x"
+      },
+      {
+        "source": { "id": null, "name": "News9live.com" },
+        "author": null,
+        "title": "UN space agency calls for robust international response to asteroid threat - News9 LIVE",
+        "description": "The United Nations is taking steps to prevent an asteroid Armageddon from science fiction actually taking place.",
+        "url": "https://www.news9live.com/science/un-space-agency-calls-for-robust-international-response-to-asteroid-threat-2199083",
+        "urlToImage": "https://images.news9live.com/wp-content/uploads/2023/07/428ece8d-7e41-4107-a670-c99ce8e3cb6d-Cropped.jpg",
+        "publishedAt": "2023-07-03T05:50:02Z",
+        "content": "The United Nations is taking steps to prevent an asteroid Armageddon from science fiction actually taking place.\r\nWhen it comes to planetary defence, which mainly involves safeguarding the planet fro… [+3660 chars]",
         "uniqueId": "-39gl23"
       },
       {
@@ -722,6 +788,28 @@
         "uniqueId": "fhfl6z"
       },
       {
+        "source": { "id": null, "name": "Chemie.de" },
+        "author": null,
+        "title": "New experiment reveals how ultrafast conversion of urea progresses - Key to the origin of life found - Chemie.de",
+        "description": "How did life begin on Earth? Experts have long been fascinated by this question and over the years have come up with a variety of theories. One hypothesis is that the origin of life can be traced ...",
+        "url": "https://www.chemeurope.com/en/news/1180956/new-experiment-reveals-how-ultrafast-conversion-of-urea-progresses.html",
+        "urlToImage": "https://img.chemie.de/Portal/News/649e85cf825c5_1dW2_Bknn.png?tr=w-919,h-689,cm-extract,x-151,y-106:n-xzoom",
+        "publishedAt": "2023-07-03T04:00:36Z",
+        "content": "How did life begin on Earth? Experts have long been fascinated by this question and over the years have come up with a variety of theories. One hypothesis is that the origin of life can be traced bac… [+4713 chars]",
+        "uniqueId": "biwgou"
+      },
+      {
+        "source": { "id": null, "name": "The Statesman" },
+        "author": "ANI",
+        "title": "Study deepens our understanding of how humans affect climate change - The Statesman",
+        "description": "Since the industrial era, anthropogenic aerosols and greenhouse gases, or GHGs, have played a role in regulating the storage and dispersion of heat in oceans.",
+        "url": "https://www.thestatesman.com/environment/study-deepens-our-understanding-of-how-humans-affect-climate-change-1503196357.html",
+        "urlToImage": "https://www.thestatesman.com/wp-content/uploads/2022/05/iStock-157581491.jpg",
+        "publishedAt": "2023-07-03T03:27:00Z",
+        "content": "Since the industrial era, anthropogenic aerosols and greenhouse gases, or GHGs, have played a role in regulating the storage and dispersion of heat in oceans. A team led by the University of Californ… [+3997 chars]",
+        "uniqueId": "-7n4kta"
+      },
+      {
         "source": { "id": null, "name": "Devdiscourse" },
         "author": "ANI",
         "title": "Study finds how genetics interacts with social forces, environments - Devdiscourse",
@@ -742,28 +830,6 @@
         "publishedAt": "2023-07-03T03:04:39Z",
         "content": "Our Sun has a thin layer of second atmosphere that lies just above the photosphere as well as a huge corona. This is the region where we see most of the solar phenomena such as solar flares, prominen… [+1897 chars]",
         "uniqueId": "-rn1yi6"
-      },
-      {
-        "source": { "id": null, "name": "WION" },
-        "author": "WION Web Team",
-        "title": "Supermoon to be 14,000 miles closer to Earth compared to a full moon in July - WION",
-        "description": "Supermoon to be 14,000 miles closer to Earth compared to a full moon in July",
-        "url": "https://www.wionews.com/science/supermoon-to-be-14000-miles-closer-to-earth-compared-to-a-full-moon-in-july-611176",
-        "urlToImage": "http://cdn.wionews.com/sites/default/files/2023/07/03/363937-untitled-design-2023-07-03t084541657.png",
-        "publishedAt": "2023-07-03T03:03:51Z",
-        "content": "The first supermoon of 2023 which will be seen in July will appear brighter in the night sky compared to any other full moon that has been witnessed this year.\r\nAccording to The Old Farmers Almanac, … [+2560 chars]",
-        "uniqueId": "rzpiie"
-      },
-      {
-        "source": { "id": null, "name": "News.cn" },
-        "author": "",
-        "title": "China's FAST telescope finds key evidence for nanohertz gravitational waves - Xinhua",
-        "description": "",
-        "url": "https://english.news.cn/20230703/a6a501c19e0b44a79dcd01bc8e1b1bdb/c.html",
-        "urlToImage": null,
-        "publishedAt": "2023-07-03T03:00:18Z",
-        "content": "This aerial photo taken on June 22, 2023 shows China's Five-hundred-meter Aperture Spherical Radio Telescope (FAST) under maintenance in southwest China's Guizhou Province. (Xinhua/Ou Dongqu)\r\nGUIYAN… [+1730 chars]",
-        "uniqueId": "2yl3rk"
       },
       {
         "source": { "id": null, "name": "Bangkok Post" },
@@ -788,6 +854,28 @@
         "uniqueId": "-t84a3r"
       },
       {
+        "source": { "id": null, "name": "SciTechDaily" },
+        "author": null,
+        "title": "Beyond the Helix: DNA's Complex Folding Unveils New Functions - SciTechDaily",
+        "description": "In a groundbreaking study, researchers from Weill Cornell Medicine and the National Heart, Lung, and Blood Institute, a department of the National Institutes of Health, found that DNA can emulate the functions of proteins by forming intricate, three-dimension…",
+        "url": "https://scitechdaily.com/beyond-the-helix-dnas-complex-folding-unveils-new-functions/",
+        "urlToImage": "https://scitechdaily.com/images/Structure-of-Lettuce-DNA.jpg",
+        "publishedAt": "2023-07-03T02:19:18Z",
+        "content": "ByWeill Cornell MedicineJuly 2, 2023\r\nIllustration showing the structure of Lettuce, a DNA that binds and activates fluorophores derived from green fluorescent protein. Credit: Luiz F.M. Passalacqua\r… [+7243 chars]",
+        "uniqueId": "pgm3xm"
+      },
+      {
+        "source": { "id": null, "name": "WION" },
+        "author": "WION Web Team",
+        "title": "Cognitive consequences: Study reveals startling link between climate change and shrinking human brain size - WION",
+        "description": "Cognitive consequences: Study reveals startling link between climate change and shrinking human brain size",
+        "url": "https://www.wionews.com/science/cognitive-consequences-study-reveals-startling-link-between-climate-change-and-shrinking-human-brain-size-611171",
+        "urlToImage": "http://cdn.wionews.com/sites/default/files/2023/07/03/363934-the-battle-for-kyiv-25.png",
+        "publishedAt": "2023-07-03T02:00:42Z",
+        "content": "A recent study conducted by cognitive scientist Jeff Morgan Stibel from the Natural History Museum in California has uncovered a surprising link between climate change and a decline in the size of th… [+3948 chars]",
+        "uniqueId": "-g1t6ja"
+      },
+      {
         "source": { "id": null, "name": "YouTube" },
         "author": null,
         "title": "Catch the Supermoon in Singapore tonight (July 3) from 7:13pm - The Straits Times",
@@ -799,109 +887,32 @@
         "uniqueId": "-tmyuus"
       },
       {
-        "source": { "id": null, "name": "Jara.news" },
-        "author": "JARA News Media",
-        "title": "First Ever View of the Milky Way Seen Through the Lens of Neutrino Particles - JARA News",
-        "description": "Share If you like it Data collected by an observatory in Antarctica has produced our first view of the Milky Way galaxy through the lens of neutrino particles. It’s the first time we have seen our galaxy “painted” with a particle, rather than in different wav…",
-        "url": "https://jara.news/first-ever-view-of-the-milky-way-seen-through-the-lens-of-neutrino-particles/",
-        "urlToImage": "https://i0.wp.com/jara.news/wp-content/uploads/2023/07/milky_way_hubble_space_telescope_esa_nasa_1656940663231.jpg?resize=1000%2C600&ssl=1",
-        "publishedAt": "2023-07-03T00:56:11Z",
-        "content": "Data collected by an observatory in Antarctica has produced our first view of the Milky Way galaxy through the lens of neutrino particles. It’s the first time we have seen our galaxy painted with a p… [+5052 chars]",
-        "uniqueId": "5qhojt"
-      },
-      {
-        "source": { "id": null, "name": "VOA News" },
-        "author": "VOA Learning English",
-        "title": "Study: Pumping Groundwater Has Changed How Earth Turns - VOA Learning English",
-        "description": "A new study has found that pumping massive amounts of groundwater to the surface has caused Earth’s poles to change position. The study suggests water movements can change Earth’s tilt and add to sea level rise.",
-        "url": "https://learningenglish.voanews.com/a/7161879.html",
-        "urlToImage": "https://gdb.voanews.com/01000000-0a00-0242-8290-08db798b5218_w1200_r1.jpg",
-        "publishedAt": "2023-07-02T22:02:19Z",
-        "content": "A recent study says that pumping massive amounts of groundwater to the surface can affect the position of Earths poles.\r\nThe poles are at either end of the imaginary line running through the Earth. T… [+5826 chars]",
-        "uniqueId": "-g50qqo"
-      },
-      {
-        "source": { "id": null, "name": "VOA News" },
-        "author": "VOA Learning English",
-        "title": "US Space Agency Aims to Develop Moon Resources - VOA Learning English",
-        "description": "A NASA scientist recently said the agency first plans to find ways to develop oxygen and water resources. But plans are under way to mine minerals as well.",
-        "url": "https://learningenglish.voanews.com/a/us-space-agency-aims-to-develop-moon-resources/7158876.html",
-        "urlToImage": "https://gdb.voanews.com/8d4e3a52-b60e-4d83-a058-0953be64d3c2_w1200_r1.jpg",
-        "publishedAt": "2023-07-02T21:57:21Z",
-        "content": "A NASA scientist recently told a mining conference in Brisbane, Australia, that the U.S. space agency aims to develop resources on the moon.\r\nGerald Sanders has been a rocket scientist at NASA's John… [+2814 chars]",
-        "uniqueId": "-y9y3gi"
-      },
-      {
-        "source": { "id": null, "name": "Nagalandpost.com" },
-        "author": null,
-        "title": "NASA’s Mars helicopter ‘phones home’ after a silence of over 2 months - Nagaland Post",
-        "description": null,
-        "url": "https://nagalandpost.com/index.php/nasas-mars-helicopter-phones-home-after-a-silence-of-over-2-months-2/",
-        "urlToImage": null,
-        "publishedAt": "2023-07-02T20:54:12Z",
-        "content": "After being silent for 63 days, NASAs Ingenuity Mars Helicopter has made contact with mission controllers at the agencys Jet Propulsion Laboratory (JPL) in Southern California, the US space agency sa… [+2274 chars]",
-        "uniqueId": "-xjk6wp"
-      },
-      {
-        "source": { "id": null, "name": "YouTube" },
-        "author": null,
-        "title": "Hawk interrupts guitar practice to grab a snack - TODAY",
-        "description": "Sunday TODAY’s Willie Geist runs through the Highs and Lows of the week, including the inaugural “Grandparents Derby” at Emerald Downs, a hawk flying into a ...",
-        "url": "https://www.youtube.com/watch?v=t0Fb06Okl08",
-        "urlToImage": "https://i.ytimg.com/vi/t0Fb06Okl08/maxresdefault.jpg",
-        "publishedAt": "2023-07-02T20:00:22Z",
-        "content": null,
-        "uniqueId": "-urd21q"
-      },
-      {
-        "source": { "id": null, "name": "WION" },
-        "author": "WION Web Team",
-        "title": "Palaeontologists find over 42,000-year-old Asia’s largest lair for cave hyena - WION",
-        "description": "Palaeontologists find over 42,000-year-old Asia’s largest lair for cave hyena",
-        "url": "https://www.wionews.com/world/palaeontologists-find-over-42000-year-old-asias-largest-lair-for-cave-hyena-611157",
-        "urlToImage": "http://cdn.wionews.com/sites/default/files/2023/07/03/363927-wion-images-2023-07-03t004527641.png",
-        "publishedAt": "2023-07-02T19:04:51Z",
-        "content": "Siberian locals discovered a prehistoric lair of cave hyenas, which palaeontologists believe is the largest ancient hyena lair ever found in Asia. The cave in question is located in Khakassia, the Ru… [+2395 chars]",
-        "uniqueId": "xwygjs"
-      },
-      {
-        "source": { "id": null, "name": "ThePrint" },
-        "author": "ANI",
-        "title": "Study deepens our understanding of how humans affect climate change - ThePrint",
-        "description": "California [US], July 2 (ANI): Since the industrial era, anthropogenic aerosols and greenhouse gases, or GHGs, have played a role in regulating the storage and dispersion of heat in oceans. A team led by the University of California, Riverside has discovered …",
-        "url": "https://theprint.in/science/study-deepens-our-understanding-of-how-humans-affect-climate-change/1651809/",
-        "urlToImage": null,
-        "publishedAt": "2023-07-02T18:13:16Z",
-        "content": "California [US], July 2 (ANI): Since the industrial era, anthropogenic aerosols and greenhouse gases, or GHGs, have played a role in regulating the storage and dispersion of heat in oceans. A team le… [+4137 chars]",
-        "uniqueId": "-sd1qpp"
-      },
-      {
-        "source": { "id": null, "name": "Universe Today" },
-        "author": "Scott Alan Johnston",
-        "title": "NASA Locks Four Volunteers Into a One-Year Mission in a Simulated Mars Habitat - Universe Today",
-        "description": "On June 25, 2023, a crew of four volunteers entered a simulated Martian habitat, from which they will not emerge for over a year. Their mission: to learn more about the logistics – and the human psychology – of living long-term on another planet, without ever…",
-        "url": "https://www.universetoday.com/162265/nasa-locks-four-volunteers-into-a-one-year-mission-in-a-simulated-mars-habitat/",
-        "urlToImage": "https://www.universetoday.com/wp-content/uploads/2023/07/jsc2022e090455_1-scaled.jpg",
-        "publishedAt": "2023-07-02T17:36:44Z",
-        "content": "On June 25, 2023, a crew of four volunteers entered a simulated Martian habitat, from which they will not emerge for over a year. Their mission: to learn more about the logistics and the human psycho… [+3374 chars]",
-        "uniqueId": "-wfsq6w"
-      },
-      {
-        "source": { "id": null, "name": "Gearrice.com" },
-        "author": "Advay Hora",
-        "title": "This is what would happen to Earth if the ozone layer disappeared - Gearrice",
-        "description": "join the conversation",
-        "url": "https://www.gearrice.com/update/this-is-what-would-happen-to-earth-if-the-ozone-layer-disappeared/",
-        "urlToImage": "https://www.mundodeportivo.com/urbantecno/hero/2023/06/capa-de-ozono.jpg",
-        "publishedAt": "2023-07-02T17:17:25Z",
-        "content": "The ozone layer is essential to guarantee the viability of human beings on Earth. Wikipedia\r\nMuch has been said over the last few decades about the ozone layer. It is a kind of protection that allows… [+3203 chars]",
-        "uniqueId": "-dmpskx"
+        "source": { "id": null, "name": "BGR" },
+        "author": "Joshua Hawkins, Joshua Hawkins",
+        "title": "Someone made iPhone wallpapers out of stunning James Webb images - BGR",
+        "description": "Iconic James Webb images can now be used as iPhone wallpapers thanks to the photo editing work of one Redditor.",
+        "url": "https://bgr.com/science/someone-made-iphone-wallpapers-out-of-stunning-james-webb-images/",
+        "urlToImage": "https://bgr.com/wp-content/uploads/2022/09/orion-nebula-james-webb-st.jpg?quality=82&strip=all",
+        "publishedAt": "2023-07-02T22:18:00Z",
+        "content": "Reddit user u/CalDogga1 has taken some of the most iconic images captured by the James Webb Space Telescope and turned them into iPhone wallpapers. If you haven’t followed the successful image drops … [+1546 chars]",
+        "uniqueId": "qdo8jg"
       }
     ]
   },
   {
     "category": "sports",
     "data": [
+      {
+        "source": { "id": null, "name": "YouTube" },
+        "author": null,
+        "title": "Djokovic's FIRST Wimbledon Title | Rafael Nadal vs Novak Djokovic 2011 Gentlemen's Final Recap - Wimbledon",
+        "description": "Before 2011 Novak Djokovic had yet to win the Championship at Wimbledon. But this was the year the seven-time Wimbledon champion first Gentlemen's Singles Tr...",
+        "url": "https://www.youtube.com/watch?v=1XVwQp5u9EA",
+        "urlToImage": "https://i.ytimg.com/vi/1XVwQp5u9EA/maxresdefault.jpg",
+        "publishedAt": "2023-07-03T07:30:00Z",
+        "content": null,
+        "uniqueId": "by1g22"
+      },
       {
         "source": { "id": "the-times-of-india", "name": "The Times of India" },
         "author": "TIMESOFINDIA.COM",
@@ -912,6 +923,28 @@
         "publishedAt": "2023-07-03T05:53:00Z",
         "content": null,
         "uniqueId": "-mo0s1x"
+      },
+      {
+        "source": { "id": null, "name": "Rediff.com" },
+        "author": "REDIFF STYLE",
+        "title": "Sundari Penne Saniya Iyappan - Rediff.com",
+        "description": "Always glam but simple dressing from the young Malyalee star.",
+        "url": "https://www.rediff.com/getahead/report/sundari-penne-saniya-iyappan/20230703.htm",
+        "urlToImage": "https://im.rediff.com/getahead/2023/jun/30saniya1.jpg",
+        "publishedAt": "2023-07-03T05:03:35Z",
+        "content": "All photographs: Kind courtesy Saniya Iyappan/Instagram\r\nSaniya Iyappan, 21, understands that true glamour lies in understatement and wisely, for her young years, doesn't overdo dressing. No OTT for … [+1368 chars]",
+        "uniqueId": "-470w3l"
+      },
+      {
+        "source": { "id": null, "name": "NDTV News" },
+        "author": "NDTV Sports Desk",
+        "title": "\"An Advantage...\": Sunil Gavaskar On India Facing Australia, Pakistan At Start Of World Cup 2023 - NDTV Sports",
+        "description": "India are scheduled to play two of their first three matches at 2023 World Cup against strong teams like Australia and Pakistan.",
+        "url": "https://sports.ndtv.com/icc-cricket-world-cup-2023/an-advantage-sunil-gavaskar-on-india-facing-australia-pakistan-at-start-of-world-cup-2023-4169186",
+        "urlToImage": "https://c.ndtvimg.com/2023-03/4s1lqoj8_sunil-gavaskar-806_625x300_06_March_23.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=675",
+        "publishedAt": "2023-07-03T04:41:03Z",
+        "content": "The schedule for 2023 ODI World Cup has already been announced by the International Cricket Council (ICC) earlier this week. The mega event is set to kick off with a game between defending champions … [+1273 chars]",
+        "uniqueId": "tyfyl5"
       },
       {
         "source": { "id": "the-times-of-india", "name": "The Times of India" },
@@ -936,26 +969,26 @@
         "uniqueId": "-661nz4"
       },
       {
-        "source": { "id": "financial-times", "name": "Financial Times" },
-        "author": "Benjamin Parkin, Chloe Cornish",
-        "title": "Mukesh Ambani seeks winning edge over Disney in India's streaming battle - Financial Times",
-        "description": "Asia’s richest man is on a mission to transform Reliance Industries into a digital group",
-        "url": "https://www.ft.com/content/ece39430-06fd-4813-b217-18cca8db9b96",
-        "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb4770894-c07a-4fda-a564-ebc043a43f45.jpg?source=next-opengraph&fit=scale-down&width=900",
-        "publishedAt": "2023-07-03T02:00:09Z",
-        "content": "Indias richest man Mukesh Ambani has in a matter of months turned his streaming platform from a marginal provider of soap operas and old Bollywood films into the most formidable competitor to global … [+6308 chars]",
-        "uniqueId": "-yoguj7"
+        "source": { "id": null, "name": "SB Nation" },
+        "author": "David Pasztor",
+        "title": "Lyon blow AC Milan out of the water with €25m bid for Christian Pulisic - We Ain't Got No History",
+        "description": "Options?",
+        "url": "https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/2023/7/3/23782312/olympique-lyonnais-blow-ac-milan-out-of-the-water-with-25m-bid-for-christian-pulisic-reports",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/gLiNJejeLmtxm98lAJN5P33BymA=/0x128:2393x1381/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24767431/1502307113.jpg",
+        "publishedAt": "2023-07-03T02:54:59Z",
+        "content": "© 2023 Vox Media, LLC. All Rights Reserved\r\nGambling Problem? Call (800) 327-5050 or visit gamblinghelpline.ma.org (MA), Call 877-8-HOPENY/text HOPENY (467369) (NY),\r\nIf you or someone you know has a… [+596 chars]",
+        "uniqueId": "3ofmhb"
       },
       {
-        "source": { "id": null, "name": "YouTube" },
-        "author": null,
-        "title": "Smeed Smacks 61 From 28 | Somerset v Kent - Highlights | Vitality Blast 2023 - England & Wales Cricket Board",
-        "description": "Follow the 2023 Vitality Blast at: https://www.ecb.co.uk/t20-blastWatch match highlights of Somerset vs Kent in the Vitality Blast 2023.",
-        "url": "https://www.youtube.com/watch?v=Z1D3NnIddg8",
-        "urlToImage": "https://i.ytimg.com/vi/Z1D3NnIddg8/maxresdefault.jpg",
-        "publishedAt": "2023-07-02T21:26:41Z",
-        "content": null,
-        "uniqueId": "n80ck7"
+        "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+        "author": "ECB Reporters Network",
+        "title": "Kent miss last-eight spot with narrow defeat to frontrunners Somerset - ESPNcricinfo",
+        "description": "Will Smeed, Lewis Gregory the standouts for home side in 15-run win",
+        "url": "https://www.espncricinfo.com/series/vitality-blast-2023-1347399/somerset-vs-kent-south-group-1347689/match-report",
+        "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/361500/361541.6.jpg",
+        "publishedAt": "2023-07-02T21:15:00Z",
+        "content": "ReportWill Smeed, Lewis Gregory the standouts for home side in 15-run win",
+        "uniqueId": "w6c7u1"
       },
       {
         "source": { "id": null, "name": "Chessbase.com" },
@@ -981,13 +1014,13 @@
       },
       {
         "source": { "id": null, "name": "News9live.com" },
-        "author": "News9 LIVE",
+        "author": null,
         "title": "AIFF members urged to flag excessive expenditure and abandoned AFC Asian Cup bid in EXCO, AGM - News9 LIVE",
-        "description": null,
+        "description": "The EXCO members have already flown into Bengaluru for Monday's meeting while majority of the state members will check-in by Monday.",
         "url": "https://www.news9live.com/sports/football/aiff-members-urged-to-flag-excessive-expenditure-and-abandoned-afc-asian-cup-bid-in-exco-agm-2198814",
-        "urlToImage": null,
+        "urlToImage": "https://images.news9live.com/h-upload/2022/09/03/551332-newproject-2022-09-03t130841974.jpg",
         "publishedAt": "2023-07-02T18:31:21Z",
-        "content": null,
+        "content": "AIFF secretary general Shaji Prabhakaran (R) in conversation with its president Kalyan Chaubey (L). (Image credit: Twitter/@kalyanchaubey)\r\nThe EXCO members have already flown into Bengaluru for Mond… [+2611 chars]",
         "uniqueId": "oz1vlx"
       },
       {
@@ -1046,15 +1079,26 @@
         "uniqueId": "-kjk93w"
       },
       {
-        "source": { "id": "the-hindu", "name": "The Hindu" },
-        "author": "Sportstar",
-        "title": "Avinash Sable finishes fifth in 3000m Steeplechase at Stockholm Diamond League, HIGHLIGHTS - Sportstar",
-        "description": null,
-        "url": "https://sportstar.thehindu.com/athletics/avinash-sable-stockholm-diamond-league-live-updates-men-3000m-steeplechase-highlights-points-timing/article67035183.ece",
-        "urlToImage": null,
-        "publishedAt": "2023-07-02T17:15:00Z",
-        "content": null,
-        "uniqueId": "-xonkvk"
+        "source": { "id": null, "name": "Olympics.com" },
+        "author": "Utathya Nag",
+        "title": "Stockholm Diamond League 2023: Avinash Sable finishes fifth in 3000m steeplechase - Olympics",
+        "description": "The Indian athlete clocked 8:21.88 in Switzerland. Morocco’s Soufiane El Bakkali won the race in 8:09.84. Get all results.",
+        "url": "https://olympics.com/en/news/stockholm-diamond-league-2023-athletics-avinash-sable-3000m-steeplechase-result",
+        "urlToImage": "https://img.olympicchannel.com/images/image/private/t_social_share_thumb/f_auto/primary/ghmssrvllwxlscwambrx",
+        "publishedAt": "2023-07-02T17:46:00Z",
+        "content": "Indias Avinash Sable clocked 8:21.88 to finish fifth in the mens 3000m steeplechase event at the Stockholm Diamond League 2023 in Switzerland on Sunday.\r\nCompeting at the rain-soaked Olympic Stadium … [+1564 chars]",
+        "uniqueId": "f0r70l"
+      },
+      {
+        "source": { "id": null, "name": "Cricbuzz" },
+        "author": null,
+        "title": "Mehidy Hasan, not the 'all-rounder' as yet | Cricbuzz.com - Cricbuzz - Cricbuzz",
+        "description": "The Bangladesh player has improved his batting drastically, but believes he is far from where he wants to be as an all-rounder",
+        "url": "https://www.cricbuzz.com/cricket-news/127021/mehidy-hasan-not-the-all-rounder-as-yet",
+        "urlToImage": "http://www.cricbuzz.com/a/img/v1/600x400/i1/c334302/mehidy-hasan-averages-3927-wi.jpg",
+        "publishedAt": "2023-07-02T17:43:40Z",
+        "content": "Mehidy Hasan averages 39.27 with the bat in the last 22 ODIs © Getty\r\nMehidy Hasan, the Bangladesh all-rounder, has stated that being able to use his big knocks as a reference point, has allowed him … [+3765 chars]",
+        "uniqueId": "-jscagd"
       },
       {
         "source": { "id": null, "name": "YouTube" },
@@ -1068,65 +1112,175 @@
         "uniqueId": "-q97w1m"
       },
       {
-        "source": { "id": null, "name": "Rediff.com" },
-        "author": "ANI",
-        "title": "Chahal somehow misses big tournaments: Sourav Ganguly - Rediff.com",
-        "description": "Former Indian captain and BCCI president Sourav Ganguly backed spinner Yuzvendra Chahal to shine in the forthcoming ICC Men's Cricket World Cup.",
-        "url": "https://www.rediff.com/cricket/report/chahal-somehow-misses-big-tournaments-sourav-ganguly/20230702.htm",
-        "urlToImage": "https://im.rediff.com/cricket/2023/jul/02chahal.jpg",
-        "publishedAt": "2023-07-02T16:32:31Z",
-        "content": "IMAGE: Yuzvendra Chahal last featured in an ODI game for India in January this year. Photograph: BCCI\r\nFormer Indian captain and BCCI president Sourav Ganguly backed spinner Yuzvendra Chahal to shine… [+2055 chars]",
-        "uniqueId": "xjk93u"
-      },
-      {
-        "source": { "id": "the-times-of-india", "name": "The Times of India" },
-        "author": "TIMESOFINDIA.COM",
-        "title": "PCB writes to Pakistan PM seeking clearance to travel to India for World Cup: Report - Indiatimes.com",
-        "description": "Cricket News: The Pakistan Cricket Board (PCB) has reached out to Prime Minister Shehbaz Sharif, seeking official clearance to travel to India for the upcoming ODI",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/pcb-writes-to-pakistan-pm-seeking-clearance-to-travel-to-india-for-world-cup-report/articleshow/101438051.cms",
-        "urlToImage": "https://static.toiimg.com/thumb/msid-101438058,width-1070,height-580,imgsize-33624,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2023-07-02T16:29:00Z",
-        "content": "Ashes: Australia overcome Stokes scare to win Lord's Test",
-        "uniqueId": "-au391"
-      },
-      {
-        "source": { "id": null, "name": "Sports Mole" },
-        "author": "Matt Law",
-        "title": "Kevin Trapp 'emerges as goalkeeper target for Manchester United' - Sports Mole",
-        "description": "Manchester United could move for Eintracht Frankfurt goalkeeper",
-        "url": "https://www.sportsmole.co.uk/football/man-utd/transfer-talk/news/kevin-trapp-emerges-as-goalkeeper-target-for-man-united_517549.html",
-        "urlToImage": "//b.smimg.net/22/39/kevin-trapp.jpeg",
-        "publishedAt": "2023-07-02T15:52:09Z",
-        "content": "The 32-year-old arrived at Frankfurt from Paris Saint-Germain in 2018, initially on loan, and he has represented the German side on 304 occasions in all competitions during two separate spells.\r\nTrap… [+2260 chars]",
-        "uniqueId": "-h4cyhd"
-      },
-      {
-        "source": { "id": null, "name": "Khelnow.com" },
-        "author": "Author Name",
-        "title": "SAFF Championship 2023 Final: Where and how to watch Kuwait vs India game? - Khel Now",
-        "description": "Find out how you can watch the SAFF Championship 2023 final match between Kuwait and India.",
-        "url": "https://khelnow.com/football/2023-07-saff-championship-kuwait-vs-india-telecast-live-stream",
-        "urlToImage": "https://assets-webp.khelnow.com/news/uploads/2023/07/397-Khel-Now-15-copy.jpg.webp",
-        "publishedAt": "2023-07-02T14:48:00Z",
-        "content": "The Bangabandhu SAFF Championship has been a happy hunting ground for India, with the Blue Tigers winning eight of the 13 editions held so far. However, the ongoing 2023 edition of the championship i… [+1948 chars]",
-        "uniqueId": "-t562ut"
-      },
-      {
         "source": { "id": null, "name": "NDTV News" },
-        "author": "NDTV Sports Desk",
-        "title": "Virat Kohli Posts Cute Picture With Anushka Sharma, Suresh Raina's Reaction Cannot Be Missed - NDTV Sports",
-        "description": "Virat Kohli shared a picture with his wife Anushka Sharma during their stay in London.",
-        "url": "https://sports.ndtv.com/cricket/virat-kohli-posts-cute-picture-with-anushka-sharma-suresh-rainas-reaction-cannot-be-missed-4171441",
-        "urlToImage": "https://c.ndtvimg.com/2023-07/nkmrqsb8_virat_625x300_02_July_23.jpg",
-        "publishedAt": "2023-07-02T14:46:00Z",
-        "content": "Indian cricket team star batter Virat Kohli is currently in London along with his wife Anushka Sharma and he took to social media to share a picture from his day out in the city. Anushka also posted … [+1239 chars]",
-        "uniqueId": "z7tiah"
+        "author": "Press Trust of India",
+        "title": "PCB Writes To Pakistan PM For Clearance To Travel To India For ICC World Cup 2023: Report - NDTV Sports",
+        "description": "It is understood that Pakistan is set to send a security delegation to India for inspecting the venues before giving clearance for the World Cup.",
+        "url": "https://sports.ndtv.com/icc-cricket-world-cup-2023/pcb-writes-to-pakistan-pm-for-clearance-to-travel-to-india-for-icc-world-cup-2023-report-4171679",
+        "urlToImage": "https://c.ndtvimg.com/2021-12/vm511ofo_pcb-twitter_625x300_13_December_21.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675",
+        "publishedAt": "2023-07-02T16:41:25Z",
+        "content": "The Pakistan Cricket Board (PCB) has written to Prime Minister Shehbaz Sharif, seeking official clearance to travel to India for the ODI World Cup in October-November, according to a report. In the l… [+1945 chars]",
+        "uniqueId": "4ty9f7"
       }
     ]
   },
   {
     "category": "technology",
     "data": [
+      {
+        "source": { "id": null, "name": "YouTube" },
+        "author": null,
+        "title": "Garmin Vs Apple Watch: The Ideal Fitness Companion? | Tech Today - India Today",
+        "description": "Garmin has launched its much-awaited Forerunner 265 smartwatch in India.  Here's an in-depth review of the newly launched smartwatch. Get ready to uncover it...",
+        "url": "https://www.youtube.com/watch?v=CL0Zxadix_o",
+        "urlToImage": "https://i.ytimg.com/vi/CL0Zxadix_o/maxresdefault.jpg",
+        "publishedAt": "2023-07-03T08:24:17Z",
+        "content": null,
+        "uniqueId": "o5tcg9"
+      },
+      {
+        "source": { "id": null, "name": "The Siasat Daily" },
+        "author": "Indo-Asian News Service",
+        "title": "Galaxy Watches to get improved wearing detection for users with tattooed wrists - The Siasat Daily",
+        "description": "San Francisco: Samsung Galaxy Watch's new update will include improved wearing detection for users with tattooed wrists. The Samsung Community moderator in charge of the Galaxy Wear app recently posted a user reply on the official forums, stating that Samsung…",
+        "url": "https://www.siasat.com/galaxy-watches-to-get-improved-wearing-detection-for-users-with-tattooed-wrists-2630553/",
+        "urlToImage": "https://cdn.siasat.com/wp-content/uploads/2021/02/Samsung-Watch-2.jpg",
+        "publishedAt": "2023-07-03T08:19:00Z",
+        "content": "San Francisco: Samsung Galaxy Watch’s new update will include improved wearing detection for users with tattooed wrists.\r\nThe Samsung Community moderator in charge of the Galaxy Wear app recently pos… [+1029 chars]",
+        "uniqueId": "-1m81l3"
+      },
+      {
+        "source": { "id": null, "name": "YouTube" },
+        "author": null,
+        "title": "Would You Buy A Foldable Smartphone In 2023? | Tech Today - India Today",
+        "description": null,
+        "url": "https://www.youtube.com/watch?v=YRk_e0IykJ8",
+        "urlToImage": null,
+        "publishedAt": "2023-07-03T08:12:07Z",
+        "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later",
+        "uniqueId": "-xm3su8"
+      },
+      {
+        "source": { "id": null, "name": "Hindustan Times" },
+        "author": "HT Tech",
+        "title": "Hot Deal Alert! Get your hands on the Samsung Galaxy F13 at unbelievably low price - HT Tech",
+        "description": "If you have been looking to purchase a new smartphone, then we have found an amazing deal just for you. Don't miss out on this amazing Samsung Galaxy F13 deal!",
+        "url": "https://tech.hindustantimes.com/mobile/news/hot-deal-alert-get-your-hands-on-the-samsung-galaxy-f13-at-unbelievably-low-price-71688370456595.html",
+        "urlToImage": "https://images.hindustantimes.com/tech/img/2023/07/03/1600x900/Samsung_Galaxy_F13_1688370541212_1688370541383.jpg",
+        "publishedAt": "2023-07-03T07:51:48Z",
+        "content": "Currently, Flipkart is running an enticing discount on the Samsung Galaxy F13, making it a deal worth exploring for potential buyers.\r\nThe Samsung Galaxy F13, which made its debut in June 2022, is a … [+2141 chars]",
+        "uniqueId": "-656rlq"
+      },
+      {
+        "source": { "id": null, "name": "Telangana Today" },
+        "author": "IANS",
+        "title": "Apple's next AirPods Pro may include temperature check, hearing test features - Telangana Today",
+        "description": "AirPods currently support audiograms, which are audio profiles that inform the AirPods of any areas of the users' hearing that may be weaker so that they can adjust to those areas.",
+        "url": "https://telanganatoday.com/apples-next-airpods-pro-may-check-temperature-test-hearing",
+        "urlToImage": "https://cdn.telanganatoday.com/wp-content/uploads/2023/07/Airpods.jpg",
+        "publishedAt": "2023-07-03T07:49:34Z",
+        "content": null,
+        "uniqueId": "97y6oj"
+      },
+      {
+        "source": { "id": null, "name": "gizmochina" },
+        "author": "gizmochina",
+        "title": "Oppo Reno 10 series Indian launch set for July 10, Key specs officially confirmed - gizmochina",
+        "description": null,
+        "url": "https://www.gizmochina.com/2023/07/03/oppo-reno-10-series-indian-launch-date-revealed/",
+        "urlToImage": null,
+        "publishedAt": "2023-07-03T07:37:57Z",
+        "content": null,
+        "uniqueId": "v2x3cy"
+      },
+      {
+        "source": { "id": null, "name": "Gearrice.com" },
+        "author": "Jacob Philip",
+        "title": "these first photos confirm the new design - Gearrice",
+        "description": "Photos of Samsung's next folding smartphone seem to have appeared on the web. We discover the new hinge.",
+        "url": "https://www.gearrice.com/update/these-first-photos-confirm-the-new-design/",
+        "urlToImage": "https://images.frandroid.com/wp-content/uploads/2023/04/samsung-Galaxy-Z-Fold5-5K3-smartprix.com_-scaled-1.webp",
+        "publishedAt": "2023-07-03T07:20:15Z",
+        "content": "Photos of Samsungs next folding smartphone seem to have appeared on the web. We discover the new hinge.\r\nSamsung Galaxy Z Fold 5 // Source: Evleaks\r\nThe month of July is here, and with it the upcomin… [+1389 chars]",
+        "uniqueId": "nn1tbw"
+      },
+      {
+        "source": { "id": null, "name": "Financial Express" },
+        "author": "The Financial Express",
+        "title": "OnePlus Nord CE 3, Nord 3 to use the same 50MP Sony IMX890 OIS camera as OnePlus 11 - The Financial Express",
+        "description": null,
+        "url": "https://www.financialexpress.com/life/technology-oneplus-nord-ce-3-nord-3-to-use-the-same-50mp-sony-imx890-ois-camera-as-oneplus-11-3153054/",
+        "urlToImage": null,
+        "publishedAt": "2023-07-03T07:03:44Z",
+        "content": null,
+        "uniqueId": "-1r6502"
+      },
+      {
+        "source": { "id": null, "name": "Mysmartprice.com" },
+        "author": null,
+        "title": "iQOO Neo 7 Pro Launch Roundup: Expected Price In India, How To Watch Launch Event, Specifications and More - MySmartPrice",
+        "description": "Here's everything you need to know about iQOO Neo 7 Pro launching in India on July 4th!",
+        "url": "https://www.mysmartprice.com/gear/iqoo-neo-7-pro-roundup/",
+        "urlToImage": "https://assets.mspimages.in/gear/wp-content/uploads/2023/06/iQOO-Neo-7-Pro-feature.png",
+        "publishedAt": "2023-07-03T07:01:23Z",
+        "content": null,
+        "uniqueId": "7bepaf"
+      },
+      {
+        "source": { "id": null, "name": "Hindustan Times" },
+        "author": "MD Ijaj Khan",
+        "title": "Impress your boss, just boost your productivity with these top 5 AI Chrome extensions - HT Tech",
+        "description": "Do you find yourself spending more time working on web browsers rather than desktop apps? If so, consider giving AI Chrome extensions a try.",
+        "url": "https://tech.hindustantimes.com/tech/news/impress-your-boss-just-boost-your-productivity-with-these-top-5-ai-chrome-extensions-71688366714700.html",
+        "urlToImage": "https://images.hindustantimes.com/tech/img/2023/07/03/1600x900/Chrome_extensions_1688367106286_1688367106697.jpg",
+        "publishedAt": "2023-07-03T06:55:25Z",
+        "content": "Do you find yourself spending more time working on web browsers rather than desktop apps? If so, consider giving AI Chrome extensions a try. Chrome extensions are small add-ons that enhance the funct… [+2182 chars]",
+        "uniqueId": "m90by9"
+      },
+      {
+        "source": { "id": null, "name": "Mysmartprice.com" },
+        "author": "https://www.facebook.com/chinnu.1125",
+        "title": "Samsung Galaxy M34 5G India Price Tipped; New Leak Reveals Key Specifications - MySmartPrice",
+        "description": "The Samsung Galaxy M34 5G will be a mid-range 5G smartphone from the company. It is confirmed to launch on July 7.",
+        "url": "https://www.mysmartprice.com/gear/samsung-galaxy-m34-5g-india-price-tipped-new-leak-specifications/",
+        "urlToImage": "https://assets.mspimages.in/gear/wp-content/uploads/2023/06/Samsung-Galaxy-M34-5G.jpg",
+        "publishedAt": "2023-07-03T06:50:31Z",
+        "content": null,
+        "uniqueId": "-t5ovby"
+      },
+      {
+        "source": { "id": null, "name": "Business Standard" },
+        "author": null,
+        "title": "Motorola Razr 40 series India launch on July 3: Livestream, specs, and more - Business Standard",
+        "description": "Motorola Razr 40 series India launch event will livestream on Motorola India's YouTube channel. Updates from the event would be available on its India-centric Twitter, Facebook and other social media handles",
+        "url": "https://www.business-standard.com/technology/gadgets/motorola-razr-40-series-india-launch-on-july-3-livestream-specs-and-more-123070300279_1.html",
+        "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-07/03/full/1688366441-2152.png",
+        "publishedAt": "2023-07-03T06:48:41Z",
+        "content": "Unsubscribe to continue\r\nThis is a subscriber only feature Subscribe Now to get daily updates on WhatsApp",
+        "uniqueId": "-qunz0n"
+      },
+      {
+        "source": { "id": null, "name": "Investing.com" },
+        "author": "IANS",
+        "title": "realme's narzo 60 Series 5G: Redefining smartphone storage in India with exceptional 1TB internal space - Investing.com India",
+        "description": "The Financial News section features stock market news in addition to stories about bonds, forex, commodities and economic releases.",
+        "url": "https://in.investing.com/news/realmes-narzo-60-series-5g-redefining-smartphone-storage-in-india-with-exceptional-1tb-internal-space-3708732",
+        "urlToImage": "https://i-invdn-com.investing.com/news/https://i-invdn-com.investing.com/akapi-images/800x450/a61f53b0a2c4cc027b8f487d3969a895_w_800_h_450.jpg",
+        "publishedAt": "2023-07-03T06:47:36Z",
+        "content": "New Delhi, July 3 (IANS) In the not-so-distant past, we relied on physical storage mediums like photo albums, document files, reel cameras, CDs, and cassettes to store our memories and important file… [+3230 chars]",
+        "uniqueId": "-nhx9n0"
+      },
+      {
+        "source": { "id": null, "name": "Jagran.com" },
+        "author": "Vikas Yadav",
+        "title": "Nothing Phone (2) Leaks: Tipster Shares Seemingly Real Image Of Phone (2)'s Camera Module; First Look Here - Jagran English",
+        "description": "Nothing Phone 2 Leaks The leaked image draw parallels with the renders leaked by OnLeaks A small change is visible as the device are the flat sides unlike the curved ones teased earlier in the CAD files",
+        "url": "https://english.jagran.com/technology/nothing-phone-2-leaks-launch-date-price-specifications-design-seemingly-real-image-of-phone-2-camera-module-first-look-latest-updates-10085726",
+        "urlToImage": "https://imgeng.jagran.com/images/2023/jul/nothing-phone-2-design-camera-leaks1688367029030.jpg",
+        "publishedAt": "2023-07-03T06:38:00Z",
+        "content": "JE Technology Desk: London-based phone maker Nothing will unveil the highly-anticipated Nothing Phone (2) in India on July 11. While it has been subject to several rumours lately, a Twitter user has … [+1783 chars]",
+        "uniqueId": "v2akf8"
+      },
       {
         "source": { "id": null, "name": "Livemint" },
         "author": null,
@@ -1139,15 +1293,26 @@
         "uniqueId": "y39mwh"
       },
       {
-        "source": { "id": null, "name": "Techlusive.in" },
-        "author": "Shubham Verma",
-        "title": "Samsung Galaxy S21 FE may soon get Snapdragon 888 variant in India - Techlusive",
-        "description": "Samsung Galaxy S21 FE which was launched originally in 2021 with an Exynos chipset is reportedly coming back later this month in India.",
-        "url": "https://www.techlusive.in/news/samsung-galaxy-s21-fe-may-soon-get-snapdragon-888-variant-in-india-1387469/",
-        "urlToImage": "https://st1.techlusive.in/wp-content/uploads/2023/05/Samsung-Galaxy-S21-FE-3-1.jpg",
-        "publishedAt": "2023-07-03T06:17:15Z",
-        "content": "Samsung Galaxy S21 FE, which was launched originally in 2021 with an Exynos chipset, is reportedly coming back later this month in India.\r\nSamsung Galaxy S21 FE — the last FE edition phone from the c… [+2397 chars]",
-        "uniqueId": "-el0z4w"
+        "source": { "id": null, "name": "Jagran.com" },
+        "author": "Ashish Singh",
+        "title": "Steam Summer Sale 2023: Grab These 5 Popular Games For Less Than Rs 1,000 - Jagran English",
+        "description": "Steam Summer Sale 2023 Plenty of games including FIFA 23 The Division 2 and others are available for purchase with massive discounts",
+        "url": "https://english.jagran.com/technology/steam-summer-sale-2023-grab-these-5-popular-games-for-less-than-rs-1000-fifa-23-steam-the-division-2-forza-horizon-4-ghost-recon-breakpoint-rainbow-six-siege-10085723",
+        "urlToImage": "https://imgeng.jagran.com/images/2023/jul/Steam Summer Sale 20231688366499455.jpg",
+        "publishedAt": "2023-07-03T06:31:00Z",
+        "content": "Steam, Valve's famed video game store, has officially launched its annual Summer Sale for players all over the world. The sale provides significant discounts on famous gaming titles and will remain t… [+1991 chars]",
+        "uniqueId": "-bo553s"
+      },
+      {
+        "source": { "id": null, "name": "Themobileindian.com" },
+        "author": "Abhishek Malhotra",
+        "title": "Fire-boltt Combat smartwatch launched in India - The Mobile Indian",
+        "description": "Fire-boltt has launched the Combat wearable in India with a rugged design, bluetooth calling, 150+ sports modes and more.",
+        "url": "https://www.themobileindian.com/news/fire-boltt-combat-smartwatch-launched-in-india",
+        "urlToImage": "https://www.themobileindian.com/wp-content/uploads/2023/07/Fire-boltt-combat-watch.jpg",
+        "publishedAt": "2023-07-03T06:14:04Z",
+        "content": "Fire-boltt has launched the Combat Rugged smartwatch in India, which offers features like shockproof body and military-grade toughness, over 150 sports modes, bluetooth calling support among others. … [+1237 chars]",
+        "uniqueId": "-wumdgp"
       },
       {
         "source": { "id": null, "name": "Financial Express" },
@@ -1172,180 +1337,15 @@
         "uniqueId": "-ur6s3s"
       },
       {
-        "source": { "id": null, "name": "Hindustan Times" },
-        "author": "HT Tech",
-        "title": "Next AirPods Pro to track your health, act as hearing aid, check body temperature - HT Tech",
-        "description": "Apple’s next-generation AirPods Pro are set to get multiple health features and they could even act as a hearing aid.",
-        "url": "https://tech.hindustantimes.com/wearables/news/next-airpods-pro-to-track-your-health-act-as-hearing-aid-check-body-temperature-71688362186033.html",
-        "urlToImage": "https://images.hindustantimes.com/tech/img/2023/07/03/1600x900/ignacio-r-3yrJSb2fMT0-unsplash_1688362374867_1688362378141.jpg",
-        "publishedAt": "2023-07-03T05:34:01Z",
-        "content": "Arguably, Apple AirPods are the most popular wireless earbuds of all time, with Apple generating $12.1 billion from sales alone in 2021. However, due to their open-ear design, the AirPods lack any so… [+2436 chars]",
-        "uniqueId": "-krq9os"
-      },
-      {
-        "source": { "id": null, "name": "Jagran.com" },
-        "author": "Vikas Yadav",
-        "title": "Motorola Razr 40, 40 Ultra Launching In India Today; Here's What To Expect And How To Watch Live - Jagran English",
-        "description": "Motorola Razr 40 Series Launch In India Motorola is all set to compete with the upcoming Samsung Galaxy Z Flip 5 with its Razr 40 Ultra handset that will launch in India today Viewers can head to the official YouTube handle of Motorola India at 500 PM today t…",
-        "url": "https://english.jagran.com/technology/motorola-razr-40-40-ultra-price-launch-date-in-india-today-what-to-expect-how-to-watch-live-latest-updates-10085709",
-        "urlToImage": "https://imgeng.jagran.com/images/2023/jul/motorola-razr-40-ultra-launch-india1688362760944.jpg",
-        "publishedAt": "2023-07-03T05:28:00Z",
-        "content": "JE Technology Desk: Motorola is all set to compete with the upcoming Samsung Galaxy Z Flip 5 with its Razr 40 Ultra handset that will launch in India today. Apart from the 'Ultra', the company will a… [+2098 chars]",
-        "uniqueId": "-kvmpfu"
-      },
-      {
-        "source": { "id": null, "name": "Hindustan Times" },
-        "author": "HT Auto Desk",
-        "title": "Watch: This BMW i3 EV can almost turn on a dime. Know the secret behind it - HT Auto",
-        "description": "The new technology developed by ZF can make parking in tight spaces convenient.",
-        "url": "https://auto.hindustantimes.com/auto/electric-vehicles/watch-this-bmw-i3-ev-can-almost-turn-on-a-dime-know-the-secret-behind-it-41688360032775.html",
-        "urlToImage": "https://images.hindustantimes.com/auto/img/2023/07/03/1600x900/BMW_i3_1688361942282_1688361942471.png",
-        "publishedAt": "2023-07-03T05:27:51Z",
-        "content": "Dubbed the Easy Turn Strut, this technology developed by the German auto parts manufacturer is a strut suspension axle that can reduce a car's turning radius to as little as 5,700 mm, of the vehicle … [+1314 chars]",
-        "uniqueId": "xsbv5t"
-      },
-      {
-        "source": { "id": null, "name": "Dark Horizons" },
-        "author": "Garth Franklin",
-        "title": "Microsoft/FTC Hearing Reveals Gaming Details - Dark Horizons",
-        "description": "A five-day hearing in the case between the U.S. Federal Trade Commission (FTC) and Microsoft in regards to the latter’s plans to acquire Activision Blizzard has had a knock-on effect – it’s revealed some of the inner workings of the usually secretive game ind…",
-        "url": "https://www.darkhorizons.com/microsoft-ftc-hearing-reveals-gaming-details/",
-        "urlToImage": "https://cdndh.darkhorizons.com/wp-content/uploads/2021/08/new-call-of-duty-mobile-game-planned.jpg",
-        "publishedAt": "2023-07-03T05:01:27Z",
-        "content": "A five-day hearing in the case between the U.S. Federal Trade Commission (FTC) and Microsoft in regards to the latter’s plans to acquire Activision Blizzard has had a knock-on effect – it’s revealed … [+4126 chars]",
-        "uniqueId": "-8a3jse"
-      },
-      {
-        "source": { "id": null, "name": "Hindustan Times" },
-        "author": "HT Tech",
-        "title": "Amazon offers discount of 57% on Samsung Galaxy S20 FE 5G - HT Tech",
-        "description": "Buy Samsung Galaxy S20 FE 5G with a huge discount on Amazon.",
-        "url": "https://tech.hindustantimes.com/mobile/news/amazon-offers-discount-of-57-on-samsung-galaxy-s20-fe-5g-71688358087737.html",
-        "urlToImage": "https://images.hindustantimes.com/tech/img/2023/07/03/1600x900/s20_1687346898736_1688358538434.png",
-        "publishedAt": "2023-07-03T04:38:11Z",
-        "content": "If you were eyeing buying a premium smartphone, this is your chance to get it. Amazon is offering a major discount on Samsung Galaxy S20 FE 5G. Know all about the huge discount.\r\nFeatures of Samsung … [+1576 chars]",
-        "uniqueId": "xakx26"
-      },
-      {
-        "source": { "id": null, "name": "Hindustan Times" },
-        "author": "HT Tech",
-        "title": "Price cut alert! Grab iPhone 13 with a 12 percent discount this way - HT Tech",
-        "description": "Planning to buy an iPhone soon? Check out an amazing offer that is currently available on the iPhone 13 where you can get discounts, bank benefits, and exchange offer.",
-        "url": "https://tech.hindustantimes.com/mobile/news/price-cut-alert-grab-iphone-13-with-a-12-percent-discount-this-way-71688358033574.html",
-        "urlToImage": "https://images.hindustantimes.com/tech/img/2023/07/03/1600x900/pexels-douglas-mendes-14666017_1688358204415_1688358221274.jpg",
-        "publishedAt": "2023-07-03T04:24:17Z",
-        "content": "iPhone 13 has several similarities to iPhone 14. It has the same A15 Bionic SoC under the hood, the same display, and similar cameras. Therefore, if you're considering purchasing the iPhone 14, then … [+1749 chars]",
-        "uniqueId": "kuoywh"
-      },
-      {
-        "source": { "id": null, "name": "Hindustan Times" },
-        "author": "HT Tech",
-        "title": "iPhone owner? Keep it safe from hackers by switching on this critical iOS 16 feature - HT Tech",
-        "description": "To quickly deal with cyber threats which harm the security of your iPhone, Apple has special iOS updates in place. Here’s how you can use it to keep your device safe.",
-        "url": "https://tech.hindustantimes.com/how-to/iphone-owner-keep-it-safe-from-hackers-by-switching-on-this-critical-ios-16-feature-71688357285413.html",
-        "urlToImage": "https://images.hindustantimes.com/tech/img/2023/07/03/1600x900/lucas-hoang-YhDDmc_nW80-unsplash_1688357817592_1688357822829.jpg",
-        "publishedAt": "2023-07-03T04:17:44Z",
-        "content": "Cyberspace is filled with potential hackers and cybercriminals who would jump at a chance to get access to data on your smartphone. While Android smartphones tend to be more susceptible to such attac… [+2113 chars]",
-        "uniqueId": "m3cra3"
-      },
-      {
-        "source": { "id": null, "name": "The Statesman" },
-        "author": "ANI",
-        "title": "YouTube tests disabling videos for people using ad blockers - The Statesman",
-        "description": "YouTube is looking to take a more aggressive approach to discourage people from using adblockers.",
-        "url": "https://www.thestatesman.com/supplements/science_supplements/youtube-tests-disabling-videos-for-people-using-ad-blockers-1503196359.html",
-        "urlToImage": "https://www.thestatesman.com/wp-content/uploads/2021/09/3564166720c7519b1825ecf9f54d60e4.jpg",
-        "publishedAt": "2023-07-03T03:30:00Z",
-        "content": "YouTube is looking to take a more aggressive approach to discourage people from using adblockers. \r\nAs per The Verge, the company is running “a small experiment globally that urges viewers with ad bl… [+1446 chars]",
-        "uniqueId": "-qk9dbt"
-      },
-      {
         "source": { "id": null, "name": "GSMArena.com" },
-        "author": "Sagar",
-        "title": "Here's our first look at the Infinix Hot 30 5G with 50MP camera and vegan leather back - GSMArena.com news - GSMArena.com",
-        "description": "It has a tentative launch date of July 14. Infinix unveiled the Helio G88-powered Hot 30 4G in March, and we now learn the brand will follow up with a 5G...",
-        "url": "https://www.gsmarena.com/infinix_hot_30_5g_features_design_colors_launch_date-news-59027.php",
-        "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/06/infinix-hot-30-5g-specs-design/-952x498w6/gsmarena_001.jpg",
-        "publishedAt": "2023-07-03T03:01:01Z",
-        "content": "Infinix unveiled the Helio G88-powered Hot 30 4G in March, and we now learn the brand will follow up with a 5G version next month in India with support for 14 5G bands. The tentative launch date is J… [+1153 chars]",
-        "uniqueId": "cfdtb0"
-      },
-      {
-        "source": { "id": null, "name": "LatestLY" },
-        "author": "IANS",
-        "title": "ChatGPT-Developer OpenAI's GPT-3 Double-Edge Sword, Can Produce Fake Tweets That Are Harder to Detect: - LatestLY",
-        "description": "Compared to humans, artificial intelligence (AI) language models like OpenAI's GPT-3 can produce accurate tweets that are easier to understand but also fake ones that are harder to detect, according to a recent study.",
-        "url": "https://www.latestly.com/technology/chatgpt-developer-openais-gpt-3-double-edge-sword-can-produce-fake-tweets-that-are-harder-to-detect-study-5239944.html",
-        "urlToImage": "https://st1.latestly.com/wp-content/uploads/2023/05/eced333-784x441.jpg",
-        "publishedAt": "2023-07-03T02:55:58Z",
-        "content": "London, July 2: Compared to humans, artificial intelligence (AI) language models like OpenAI's GPT-3 can produce accurate tweets that are easier to understand but also fake ones that are harder to de… [+2888 chars]",
-        "uniqueId": "-hzqyje"
-      },
-      {
-        "source": { "id": null, "name": "gizmochina" },
-        "author": "gizmochina",
-        "title": "OnePlus Nord CE 3 5G’s primary camera officially confirmed - gizmochina",
-        "description": null,
-        "url": "https://www.gizmochina.com/2023/07/03/oneplus-nord-ce-3-5gs-primary-camera-officially-confirmed/",
-        "urlToImage": null,
-        "publishedAt": "2023-07-03T01:15:00Z",
-        "content": null,
-        "uniqueId": "nvmupe"
-      },
-      {
-        "source": { "id": null, "name": "gizmochina" },
-        "author": "gizmochina",
-        "title": "Nothing Phone (2) leaked render appears to reveal rear camera setup - gizmochina",
-        "description": null,
-        "url": "https://www.gizmochina.com/2023/07/03/nothing-phone-2-leaked-render-appears-to-reveal-rear-camera-setup/",
-        "urlToImage": null,
-        "publishedAt": "2023-07-03T01:09:00Z",
-        "content": null,
-        "uniqueId": "onm0tw"
-      },
-      {
-        "source": { "id": null, "name": "gizmochina" },
-        "author": "gizmochina",
-        "title": "Google Pixel 8, Pixel 8 Pro battery, fast charging capabilities revealed - gizmochina",
-        "description": null,
-        "url": "https://www.gizmochina.com/2023/07/03/google-pixel-8-pixel-8-pro-battery-fast-charging-capabilities-revealed/",
-        "urlToImage": null,
-        "publishedAt": "2023-07-03T01:00:00Z",
-        "content": null,
-        "uniqueId": "-l7u8ai"
-      },
-      {
-        "source": { "id": null, "name": "Hindustan Times" },
-        "author": "HT Tech",
-        "title": "Garena Free Fire Redeem Codes for July 3: Grab exclusive rewards with Cubes Secret Event! - HT Tech",
-        "description": "Garena Free Fire Redeem codes for July 3: With the 6th anniversary of Garena Free Fire approaching, the game developers have rolled out the Cubes Secret Event through which you can get amazing prizes! You can also get freebies with Garena Free Fire redeem cod…",
-        "url": "https://tech.hindustantimes.com/how-to/garena-free-fire-redeem-codes-for-july-3-grab-exclusive-rewards-with-cubes-secret-event-71688345315229.html",
-        "urlToImage": "https://images.hindustantimes.com/tech/img/2023/07/03/1600x900/4b38309054a4ce4c71d2e947b2424d1ajpg_1650242981056_1688345430810.jpg",
-        "publishedAt": "2023-07-03T00:51:00Z",
-        "content": "Garena Free Fire Redeem Codes for July 3: The 6th anniversary of Garena Free Fire is finally approaching and the game developers are celebrating the joyous occasion with the Cubes Secret Event! This … [+2199 chars]",
-        "uniqueId": "rdu5v8"
-      },
-      {
-        "source": { "id": null, "name": "Hindustan Times" },
-        "author": "HT Tech",
-        "title": "BGMI Redeem Codes for July 3: Grab cosmetic upgrades for free! - HT Tech",
-        "description": "BGMI Redeem Codes for July 3: You can hone your skills in Battlegrounds Mobile India by scoring a high K/D ratio and climbing up the leaderboards. You can also boost your chances through these free BGMI redeem codes!",
-        "url": "https://tech.hindustantimes.com/how-to/bgmi-redeem-codes-for-july-3-grab-cosmetic-upgrades-for-free-71688344986138.html",
-        "urlToImage": "https://images.hindustantimes.com/tech/img/2023/07/03/1600x900/bgmi_1688345159608_1688345168554.png",
-        "publishedAt": "2023-07-03T00:47:27Z",
-        "content": "BGMI Redeem Codes for July 3: If you want to become one of the top players in Battlegrounds Mobile India (BGMI), you must have a higher kill-to-death (K/D) ratio which will allow you to climb the lea… [+1692 chars]",
-        "uniqueId": "-m9caz4"
-      },
-      {
-        "source": { "id": null, "name": "Hindustan Times" },
-        "author": "HT Tech",
-        "title": "Garena Free Fire MAX Redeem Codes for July 3: Booyah Pass Season 7 now live! - HT Tech",
-        "description": "Garena Free Fire MAX Redeem Codes for July 3: The developers of Garena Free Fire MAX have rolled out the Booyah Pass for July, giving players access to special rewards. The latest redeem codes have also been issued.",
-        "url": "https://tech.hindustantimes.com/how-to/garena-free-fire-max-redeem-codes-for-july-3-booyah-pass-season-7-now-live-71688344506315.html",
-        "urlToImage": "https://images.hindustantimes.com/tech/img/2023/07/03/1600x900/5fbbe765304d5e1a569da09fc4caaef7jpg_1643590442850_1688344860045.jpg",
-        "publishedAt": "2023-07-03T00:41:40Z",
-        "content": "Garena Free Fire MAX Redeem Codes for July 3: A new month brings another Booyah Pass and July's Booyah Pass brings T.R.A.P. City-themed rewards! Booyah Pass arrives every month and gives players a ch… [+1866 chars]",
-        "uniqueId": "-v9pfz7"
+        "author": "Yordan",
+        "title": "Honor X50 benchmarks reveal impressive CPU performance - GSMArena.com",
+        "description": "The phone is reportedly launching with a price tag of CNY1,599 ($220). Honor X50 is arriving on July 5 with a Snapdragon 6 Gen 1 chipset. The phone now...",
+        "url": "https://www.gsmarena.com/honor_x50_benchmarks_reveal_impressive_cpu_performance-news-59045.php",
+        "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/07/honor-x50-antutu-10-geekbench-6-/-952x498w6/gsmarena_000.jpg",
+        "publishedAt": "2023-07-03T06:00:01Z",
+        "content": "Honor X50 is arriving on July 5 with a Snapdragon 6 Gen 1 chipset. The phone now went through the AnTuTu and Geekbench benchmarks, revealing more details about the 4 nm platform.\r\nLeaksters claim it … [+1034 chars]",
+        "uniqueId": "-8t8575"
       }
     ]
   }
